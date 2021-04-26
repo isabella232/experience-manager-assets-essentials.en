@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Experience Manager Assets Essentials Guide
 breadcrumb-title: Assets Essentials Guide
 user-guide-description: Learn how to use Adobe Experience Manager Assets Essentials.
-feature-set: Experience Manager Assets,Experience Manager,Experience Manager Sites
+feature-set: Experience Manager Assets,Experience Manager
 feature: Asset Management
 role: Business Practitioner, Administrator
 hide: yes
