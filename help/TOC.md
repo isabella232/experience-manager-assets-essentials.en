@@ -14,10 +14,10 @@ index: no
 
 # Assets Essentials Guide {#help}
 
-+ [Overview](introduction.md)
-+
-+
-+
-+
-+
-+
++ [Solution overview](introduction.md)
++ [Get started with use cases](get-started.md)
++ [Understand interface and navigation](understand-interface.md)
++ [Add assets](add-assets.md)
++ [Search assets](search-assets.md)
++ [Edit images](edit-images.md)
++ [Integration with other solutions](integration.md)
