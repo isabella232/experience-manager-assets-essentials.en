@@ -4,7 +4,7 @@ description: Edit images to make quick and smart edits using Adobe Photoshop Exp
 role: Business Practitioner
 ---
 
-## Edit images in Assets Essentials {#edit-images}
+# Edit images in Assets Essentials {#edit-images}
 
 Assets Essentials uses Adobe Photoshop Express to do the following actions: Spot healing, Crop and straighten, Resize image, Adjust image. Open an image to preview it. Click ![edit icon](assets/do-not-localize/edit.svg) from the rail on the right.
 

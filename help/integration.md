@@ -4,7 +4,7 @@ description: Assets Essentials integrates with other Adobe solutions and provide
 role: Business Practitioner
 ---
 
-## Integration with other Adobe solutions {#}
+# Integration with other Adobe solutions
 
 Assets Essentials integrates well with the supported Adobe solutions and provides an embedded experience from within the interfaces of these applications. It lets users use the basic assets functionality from within the native application or interface, without having to leave their familiar applications.
 

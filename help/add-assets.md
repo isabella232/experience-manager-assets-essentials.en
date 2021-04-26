@@ -4,7 +4,7 @@ description: Upload assets to [!DNL Assets Essentials]
 role: Business Practitioner
 ---
 
-## Add or upload assets {#add-assets}
+# Add or upload assets {#add-assets}
 
 You can add assets by dragging folders from your desktop to the user interface. To upload, you can choose to upload multiple files or an entire folder. Once you have selected the files, you get a confirmation dialog to choose to remove one or more files. Click **[!UICONTROL Upload]** to upload the selected files or folders.
 

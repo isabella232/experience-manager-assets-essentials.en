@@ -4,7 +4,7 @@ description: Search and discover assets in Assets Essentials
 role: Business Practitioner
 ---
 
-## Search assets in [!DNL Assets Essentials] {#search-assets}
+# Search assets in [!DNL Assets Essentials] {#search-assets}
 
 Assets Essentials provides effective search, that just works by default. The search is comprehensive as it is full-text search. The powerful search functionality lets you quickly discover the appropriate asset and help you improve your content velocity. Assets Essentials provides full-text search and even searches through the metadata such as smart tags, description, copyright, and so on.
 

@@ -4,7 +4,7 @@ description: Understand user interface and navigation
 role: Business Practitioner
 ---
 
-## Understand the [!DNL Assets Essentials] user interface {#understand-interface-navigation}
+# Understand the [!DNL Assets Essentials] user interface {#understand-interface-navigation}
 
 Assets Essentials offers very intuitive and user-friendly user interface. The clean interface makes assets and related information easy to find and remember.
 
