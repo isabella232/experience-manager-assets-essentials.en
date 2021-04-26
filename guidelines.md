@@ -2,7 +2,7 @@
 
 ## Documentation Philosophy
 
-We know that [!DNL Adobe Experience Manager] users are working in highly competitive environments, striving to create digital experiences that will set them apart from their competitors. Therefore it is vital that when Adobe delivers advanced new tools in [!DNL Experience Manager], that these tools are complemented with accurate and clear documentation to allow the customer to immediately leverage their [!DNL Experience Manager] investment and maximize ROI.
+We know that [!DNL Adobe Experience Manager] users are working in highly competitive environments, striving to create digital experiences that will set them apart from their competitors. Therefore it is vital that when Adobe delivers advanced new tools in [!DNL Experience Manager], that these tools are complemented with accurate and clear documentation to let the customer to immediately leverage their [!DNL Experience Manager] investment and maximize ROI.
 
 The goal of the [!DNL Experience Manager] documentation is to put documentation into the hands of [!DNL Experience Manager] users as soon as possible. Therefore we prioritize accurate, usable documentation and strive to continually update and improve it.
 

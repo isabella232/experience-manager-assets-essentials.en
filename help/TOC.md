@@ -8,8 +8,16 @@ user-guide-description: Learn how to use Adobe Experience Manager Assets Essenti
 feature-set: Experience Manager Assets,Experience Manager,Experience Manager Sites
 feature: Asset Management
 role: Business Practitioner, Administrator
+hide: yes
+index: no
 ---
 
 # Assets Essentials Guide {#help}
 
 + [Overview](introduction.md)
++
++
++
++
++
++

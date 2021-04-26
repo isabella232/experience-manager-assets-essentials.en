@@ -1,6 +1,7 @@
 ---
 cloud: Experience Cloud
 solution: Experience Manager, Experience Manager Assets
+product: adobe experience manager
 type: Documentation
 mini-toc-levels: 1
 hide: yes
