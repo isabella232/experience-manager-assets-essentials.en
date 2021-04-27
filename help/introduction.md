@@ -1,9 +1,11 @@
 ---
 title: Introduction to [!DNL Assets Essentials]
 description: Use [!DNL Assets Essentials].
-role: Business Practitioner, Leader
+role: Business Practitioner,Leader
 ---
 # [!DNL Adobe Experience Manager Assets Essentials] overview {#assets-essentials}
+
+![DAM banner image](assets/do-not-localize/AdobeStock_251776195.jpeg) 
 
 Adobe offers a robust Digital Asset Management (DAM) solution for you to get the most out of your digital assets. As a part of Adobe Experience Manager product line, Adobe is offering a new SaaS solution to store, manage, and discover digital assets, that also integrates natively with other Adobe solutions. 
 

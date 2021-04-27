@@ -23,13 +23,13 @@ The various digital asset management (DAM) tasks that you can do using Assets Es
 
 The above use cases are supported for the following file types.
 
-* Images: GIF, JPG, PNG, and TIFF
-* Documents: DOCX, PDF, PPTX, and XLSX
-* Videos: MP4
+* ![image file type icon](assets/do-not-localize/image-icon.png) Images: GIF, JPG, PNG, and TIFF
+* ![document file type icon](assets/do-not-localize/document-icon.png) Documents: DOCX, PDF, PPTX, and XLSX
+* ![video file type icon](assets/do-not-localize/video-icon.png) Videos: MP4
 
 There may be minor limitations in the functionality for specific formats.
 
-## Provide product feedback {#provide-feedback}
+## ![feedback icon](assets/do-not-localize/feedback-icon.png) Provide product feedback {#provide-feedback}
 
 The team welcomes feedback related to product, beta program, documentation, and more. Use any of the following methods to provide feedback for the Assets Essentials beta.
 
