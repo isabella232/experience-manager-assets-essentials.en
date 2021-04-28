@@ -1,14 +1,14 @@
 # About [!DNL Adobe Experience Manager Assets Essentials]
 
-Adobe offers a robust Digital Asset Management (DAM) solution for you to get the most out of your digital assets. As a part of Adobe Experience Manager product line, Adobe is offering a new SaaS solution to store, manage, and discover digital assets, that also integrates natively with other Adobe solutions. 
+As part of its [!DNL Adobe Experience Cloud] offering, Adobe offers a robust Digital Asset Management (DAM) solution, named [!DNL Adobe Experience Manager Assets]. This enterprise-grade, customizable solution is the market leading DAM solution. In addition to Assets, as a part of Adobe Experience Manager product line, Adobe is now offering a new SaaS solution to store, manage, and discover digital assets. 
 
-Adobe Experience Manager Assets Essentials is a new, lightweight edition of Adobe Experience Manager Assets. Experience Manager Assets Essentials provide unified asset management and collaboration with a simplified and a consistent, easy-to-use user interface. This enables more creative and marketing teams to store, discover, and distribute digital assets.
+Adobe Experience Manager Assets Essentials is a new, lightweight edition of Adobe Experience Manager Assets. Experience Manager Assets Essentials provide unified asset management and collaboration with a simplified and a consistent, easy-to-use user interface. This enables more creative and marketing teams to store, discover, and distribute digital assets. Assets Essentials integrates with other Adobe solutions to provide user-friendly methods to use assets in these solutions.
 
-The solution focuses on simple interface and efficient search and discovery of digital asset, to ensure asset utilization, governance, and brand consistency across teams. The end-user experience can be via a standalone web user interface and an embedded experience in other Adobe solutions.
+Assets Essentials focuses on simple interface and efficient search and discovery of digital asset, to ensure asset utilization, governance, and brand consistency across teams. The end-user experience can be via a standalone web user interface and an embedded experience in other Adobe solutions.
 
-> [!NOTE]
+>[!NOTE]
 >
-> [!DNL Experience Manager Assets Essentials] solution and this documentation are currently available for beta testing only.
+>[!DNL Assets Essentials] and this documentation are currently available for beta testing only.
 
 ## Contribute to the documentation
 
