@@ -6,6 +6,10 @@ Adobe Experience Manager Assets Essentials is a new, lightweight edition of Adob
 
 The solution focuses on simple interface and efficient search and discovery of digital asset, to ensure asset utilization, governance, and brand consistency across teams. The end-user experience can be via a standalone web user interface and an embedded experience in other Adobe solutions.
 
+> [!NOTE]
+>
+> [!DNL Experience Manager Assets Essentials] solution and this documentation are currently available for beta testing only.
+
 ## Contribute to the documentation
 
 This project has adopted the [Adobe Open Source Code of Conduct](code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](contributing.md) article.
