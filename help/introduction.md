@@ -15,6 +15,4 @@ The solution focuses on simple interface and efficient search and discovery of d
 
 For administration, it requires simpler configuration and administration that is, has a high time to value. Administrators get immediate access to the solution and can work with familiar functionality and user entitlements in Adobe Admin Console.
 
->[!NOTE]
-> 
->Assets Essentials is currently available for beta testing and is undergoing active development and testing. Your feedback is welcome. Initially, some options of the user interface may be different from what is documented in this guide. As the beta program progresses, the solution and this document will have parity.
+![Beta software version](assets/do-not-localize/beta-version.png) Assets Essentials is currently available for beta testing and is undergoing active development. Your feedback is welcome. Initially, some options of the user interface may be different from what is documented in this guide. As the beta program progresses, the solution and this document will have parity.
