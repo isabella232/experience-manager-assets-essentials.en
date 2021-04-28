@@ -27,7 +27,7 @@ The various digital asset management (DAM) tasks that you can accomplish using A
 | How do I edit assets in the repository? | <ul> <li>Smart edits using Adobe Photoshop Express</li> <li>Crop for a social media profile</li> <li>Maintain versions. Can revert</li> </ul> |
 | How do I share my assets? | <ul> <li>Shared by me</li> <li>Shared with me</li> <li>Share for comments and review</li> <li>Unshare assets</li> </ul> |
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
-| Can Assets Essentials integrate with other solutions? | <ul> <li>[Use Asset Selector in Adobe Journey Optimizer](help/integration.md) (beta)</li> <li>[Adobe Asset Link for Creative Cloud](help/integration.md)</li> <li>Integration with Creative Cloud Team Libraries (beta)</li> </ul> |
+| Can Assets Essentials integrate with other solutions? | <ul> <li>[Use Asset Selector in Adobe Journey Optimizer](/help/integration.md) (beta)</li> <li>[Adobe Asset Link for Creative Cloud](/help/integration.md)</li> <li>Integration with Creative Cloud Team Libraries (beta)</li> </ul> |
 
 ## Supported file formats {#supported-files}
 
