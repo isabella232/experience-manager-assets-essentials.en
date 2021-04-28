@@ -7,7 +7,7 @@ role: Business Practitioner, Leader
 
 To get started using the solution, use your access to the beta program and log in at [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets).
 
-When logging in, you are prompted to select a profile after you provide the credentials. If you are part of some other Experience Cloud program, you may have more than profile to select from. To access Assets Essentials beta program, select `CJM Stage`.
+When logging in, you might be prompted to select an account after you provide the credentials. In this case, select "Company or School Account" to proceed.
 
 ![Profile selection when logging in](assets/login-select-profile.png)
 
