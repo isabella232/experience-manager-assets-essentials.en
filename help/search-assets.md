@@ -1,6 +1,6 @@
 ---
-title: Search and discover assets in Assets Essentials
-description: Search and discover assets in Assets Essentials
+title: Search and discover assets in [!DNL Assets Essentials]
+description: Search and discover assets in [!DNL Assets Essentials].
 role: Business Practitioner
 ---
 
@@ -10,13 +10,13 @@ Assets Essentials provides effective search, that just works by default. The sea
 
 To search assets, 
 
-* Click in the search box at the top of the page. By default, it searches within the folder that you are currently browsing.
+* Click in the search box at the top of the page. By default, it searches within the folder that you are currently browsing. Do one of the following:
 
   ![search box](assets/search-box.png)
 
-* Either search using a keyword and optionally change folder. Press Return.
+  * Search using a keyword and optionally change folder. Press Return.
 
-To start working with a recently viewed asset, you can search for it directly. Click in the search box and select a recently viewed asset from the suggestions. 
+  * Start working with a recently viewed asset, by searching for it directly. Click in the search box and select a recently viewed asset from the suggestions. 
 
 ## Filter search results {#refine-search-results}
 

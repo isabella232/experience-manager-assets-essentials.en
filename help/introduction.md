@@ -1,6 +1,6 @@
 ---
 title: Introduction to [!DNL Assets Essentials]
-description: Use [!DNL Assets Essentials].
+description: [!DNL Assets Essentials] overview and solution brief
 role: Business Practitioner,Leader
 ---
 # [!DNL Adobe Experience Manager Assets Essentials] overview {#assets-essentials}
@@ -8,6 +8,8 @@ role: Business Practitioner,Leader
 Adobe offers a robust Digital Asset Management (DAM) solution for you to get the most out of your digital assets. As a part of Adobe Experience Manager product line, Adobe is offering a new SaaS solution to store, manage, and discover digital assets, that also integrates natively with other Adobe solutions. 
 
 Adobe Experience Manager Assets Essentials is a new, lightweight edition of Adobe Experience Manager Assets. Experience Manager Assets Essentials provide unified asset management and collaboration with a simplified and a consistent, easy-to-use user interface. This enables more creative and marketing teams to store, discover, and distribute digital assets.
+
+Assets Essentials was launched at Adobe Summit. Read more about the [announcement blog post introducing Assets Essentials](https://blog.adobe.com/en/publish/2021/04/27/introducing-adobe-experience-manager-assets-essentials-to-simplify-collaboration-across-teams.html).
 
 The solution focuses on simple interface and efficient search and discovery of digital asset, to ensure asset utilization, governance, and brand consistency across teams. The end-user experience can be via a standalone web user interface and an embedded experience in other Adobe solutions. 
 
