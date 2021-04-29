@@ -9,6 +9,8 @@ Adobe offers a robust Digital Asset Management (DAM) solution for you to get the
 
 Adobe Experience Manager Assets Essentials is a new, lightweight edition of Adobe Experience Manager Assets. Experience Manager Assets Essentials provide unified asset management and collaboration with a simplified and a consistent, easy-to-use user interface. This enables more creative and marketing teams to store, discover, and distribute digital assets.
 
+Assets Essentials was launched at Adobe Summit. Read more about the [announcement blog post introducing Assets Essentials](https://blog.adobe.com/en/publish/2021/04/27/introducing-adobe-experience-manager-assets-essentials-to-simplify-collaboration-across-teams.html).
+
 The solution focuses on simple interface and efficient search and discovery of digital asset, to ensure asset utilization, governance, and brand consistency across teams. The end-user experience can be via a standalone web user interface and an embedded experience in other Adobe solutions. 
 
 For administration, it requires simpler configuration and administration that is, has a high time to value. Administrators get immediate access to the solution and can work with familiar functionality and user entitlements in Adobe Admin Console.

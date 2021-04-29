@@ -1,19 +1,22 @@
 ---
 title: Edit images
-description: Edit images to make quick and smart edits using Adobe Photoshop Express
+description: Edit images to make quick and effective edits using Adobe Photoshop Express
 role: Business Practitioner
 ---
 
-# Edit images in Assets Essentials {#edit-images}
+# Edit images in [!DNL Assets Essentials] {#edit-images}
 
-Assets Essentials uses Adobe Photoshop Express to do the following actions: Spot healing, Crop and straighten, Resize image, Adjust image. Open an image to preview it. Click ![edit icon](assets/do-not-localize/edit.svg) from the rail on the right.
+[!DNL Assets Essentials] provides user-friendly editing options that are powered by [!DNL Adobe Photoshop Express]. The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.
 
-![Option to edit an image](assets/edit-image.png)
+After editing an image, you can save the new image as a new version. Using versioning helps you to revert to the original asset later, if needed. To edit an image, open its preview and click **[!UICONTROL Edit Image]** ![edit icon](assets/do-not-localize/edit.svg) from the rail on the right.
 
-Assets Essentials provides smart editing options powered by Adobe Photoshop Express. You can save the edited image as a new version. You can revert to original asset later.
+<!-- 
+![Option to edit an image](assets/edit-image1.png) -->
 
-<!-- TBD:
-How to view a list of versions and some info about creation date, etc. Is this same as timeline concept in Assets?
-How to preview old version image?
-How to pick a version and revert to it anywhere from the timeline. 
--->
+![Options to edit an image](assets/edit-image2.png)
+
+*Figure: Use image editing options powered by [!DNL Adobe Photoshop Express].*
+
+>[!MORELIKETHIS]
+>
+>* [View version history of an asset](/help/understand-interface.md#view-versions)

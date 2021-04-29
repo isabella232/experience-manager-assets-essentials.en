@@ -24,9 +24,9 @@ When you log into Assets Essentials, you see the following interface.
 
 ## Detailed navigation {#detailed-navigation}
 
-**Left sidebar**
+### Navigate to files and folders {#access-files-folders}
 
-The options available in the left sidebar are:
+You can browse to the required files or folders from the main user interface or from the left sidebar. The options available in the left sidebar are:
 
 * **Assets**: List of all folders and assets in a tree view, that you have access to.
 * **Recently Viewed**: List of assets that you previewed recently. These are not the assets that displayed while browsing but the ones that were previewed.
@@ -34,51 +34,54 @@ The options available in the left sidebar are:
 
 You can open or collapse the left sidebar to increase the available asset-viewing area.
 
-**Toolbar**
+### Find features in [!DNL Assets Essentials] interface {#locate-features}
 
-When you select an asset, the following options display in the toolbar at the top.
+The following are some quick tips to help you navigate the solution and locate a few prominent features.
 
-![Toolbar options when you select an asset](assets/toolbar-asset-selected.png)
-
-* ![deselect icon](assets/do-not-localize/close-icon.png) Deselect the selection.
-* ![details icon](assets/do-not-localize/edit-in-icon.svg) Click to preview an asset and view the detailed metadata. When previewing, you also have an option to view the versions and edit an image.
-* ![download icon](assets/do-not-localize/download-icon.svg) Download the selected asset to your local file system. You do not see a download option for a folder.
-* ![delete icon](assets/do-not-localize/delete-icon.svg) Delete the selected asset or folder.
-* ![copy icon](assets/do-not-localize/copy-icon.svg) Copy the selected file or folder.
-* ![move icon](assets/do-not-localize/move-icon.svg) Move the selected asset or folder to a different location in the repository hierarchy.
-* ![rename icon](assets/do-not-localize/rename-icon.svg) Rename the selected asset or folder. Use a unique name else rename fails with a warning.
-
-**Locate features**
-
-Some quick tips to help you navigate the solution and find a few prominent user interfaces are below:
-
-| Functionality | Locate on user interface |
-|----|-----|
-| View and edit metadata, smart tags, edit image option. | Use left sidebar to navigate to the asset or search the required asset. Select the asset and click **[!UICONTROL Details]**. |
+| Functionality | Where to find it |
+|-----|-----|
+| View and edit metadata, including smart tags. | Use left sidebar to navigate to the asset or search the required asset. Select the asset and click **[!UICONTROL Details]**. |
+| Edit an image | Preview an asset. Click **[!UICONTROL Details]** and click **[!UICONTROL Edit Image]** from the right sidebar. |
 | Filter search results | Search for assets and click **[!UICONTROL Filters]** option next to the search box. |
 
-## Views assets and their information {#view-assets-and-details}
+## View assets and metadata {#view-assets-and-details}
+
+In [!DNL Assets Essentials], you can view assets, folders, and search results in four different types of layouts.
+
+* ![list view icon](assets/do-not-localize/list-view.svg) [!UICONTROL List View]
+* ![grid view icon](assets/do-not-localize/grid-view.svg) [!UICONTROL Grid View]
+* ![gallery view icon](assets/do-not-localize/gallery-view.svg) [!UICONTROL Gallery View]
+* ![waterfall view icon](assets/do-not-localize/waterfall-view.svg) [!UICONTROL Waterfall View]
 
 To browse to an asset, use the navigation hierarchy in the left sidebar. When browsing, you can use the interface to view asset thumbnails to visually browse the repository or view asset details to quickly find the asset you want.
 
-To preview an asset,
+To locate an asset, you can sort the assets in ascending or descending order of `Name`, `Relevancy`, `Size`, `Modified`, and `Created`.
 
-* Browse to an asset or search an asset.
-* Click once to select the asset.
-* Click **[!UICONTROL Details]** in the toolbar at the top.
-* Preview the asset and view its metadata.
+To preview an asset, follow these steps:
 
-To view the detailed metadata of an asset, browse to an image (or search it), select it, and click Details from the toolbar at the top. Alternatively, double-click the image.
+1. Browse to the asset or search the asset. Click once to select the asset.
+1. Click **[!UICONTROL Details]** in the toolbar.
+1. View asset and its metadata.
+1. Optionally, if the asset has detailed metadata, click on the detailed metadata tab to view it.
 
 ![View metadata of an asset](assets/metadata-view.png)
+
+*Figure: To view an asset and its metadata, click **[!UICONTROL Details]** from toolbar or double-click on the asset.*
 
 To navigate into a folder, double-click on the folder's thumbnails or select the folder from the left sidebar. To view details of a folder, select it and click Details from the toolbar at the top. To navigate up and down the hierarchy, either use the left sidebar or use the breadcrumbs at the top.
 
 ![Browse folders](assets/browsing-folders.png)
 
-To view the folders, assets, and search results, Assets Essentials offers four types of views.
+*Figure: To browse the hierarchy, use the breadcrumbs at the top or the left sidebar.*
 
-* ![list view icon](assets/do-not-localize/list-view.svg) List View
-* ![grid view icon](assets/do-not-localize/grid-view.svg) Grid View
-* ![gallery view icon](assets/do-not-localize/gallery-view.svg) Gallery View
-* ![waterfall view icon](assets/do-not-localize/waterfall-view.svg) Waterfall View
+### View versions of an asset {#view-versions}
+
+When uploading a duplicate copy or a modified copy of an asset, you can create its versions. Versioning lets you review historical assets and revert to a previous version if needed.
+
+To view versions, open an asset's preview and click **[!UICONTROL Versions]** ![Versions icon](assets/do-not-localize/versions-clock-icon.svg) from the right sidebar. Select a specific version to preview it. To revert to it, click **[!UICONTROL Make Latest]**.
+
+You can also create new versions from the versions timeline. Select the latest version, click **[!UICONTROL New Version]** and upload a new copy of the asset from your local file system.
+
+![View versions of an asset](assets/view-asset-versions.png)
+
+*Figure: View versions of an asset, revert to a previous version, or upload another new version.*
