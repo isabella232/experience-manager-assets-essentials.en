@@ -6,5 +6,4 @@ feature:
 contentOwner: AG
 ---
 
-## Delete assets that exist in the repository {#trash-assets}
-
+# Delete assets that exist in the repository {#trash-assets}

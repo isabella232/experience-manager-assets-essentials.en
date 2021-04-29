@@ -6,7 +6,7 @@ feature:
 contentOwner: AG
 ---
 
-## Manage assets {#manage-assets}
+# Manage assets {#manage-assets}
 
 Use [!DNL Assets Essentials] to accomplish the following asset management tasks. When you select an asset, the following options display in the toolbar at the top.
 
