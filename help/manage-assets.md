@@ -2,7 +2,6 @@
 title: Manage your digital assets
 description: Upload, download, delete, move, copy, rename, and edit your assets in [!DNL Assets Essentials].
 role: Business Practitioner,Leader
-feature: 
 contentOwner: AG
 ---
 
