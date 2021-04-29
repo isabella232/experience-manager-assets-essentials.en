@@ -6,9 +6,9 @@ role: Business Practitioner
 
 # Integration with other Adobe solutions {#integrations}
 
-Assets Essentials integrates well with the supported Adobe solutions and provides an embedded experience from within the interfaces of these applications. It lets users use the basic assets functionality from within the native application or interface, without having to leave their familiar applications.
+[!DNL Assets Essentials] integrates well with the supported Adobe solutions and provides an embedded experience from within the interfaces of these applications. It lets users use the basic assets functionality from within the native application or interface, without having to leave their familiar applications.
 
-The embedded Assets Essentials experience is currently undergoing beta testing and evaluation in the following solutions:
+The embedded [!DNL Assets Essentials] experience is currently undergoing beta testing and evaluation in the following solutions:
 
 * [!DNL Creative Cloud for Enterprise]: Creative professionals can connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps using [Adobe Asset Link extension](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) (in-app panel). The in-app panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It allows for a streamlined access to assets, thereby increasing content velocity. See [manage assets using [!DNL Adobe Asset Link]](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-assets-using-adobe-asset-link.ug.html).
 

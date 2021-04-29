@@ -10,12 +10,12 @@ feature: Asset Management
 role: Business Practitioner, Leader
 ---
 
-# Assets Essentials Guide {#help}
+# [!DNL Assets Essentials] Guide {#help}
 
 + [Solution overview](introduction.md)
-+ [Get started using Assets Essentials](get-started.md)
++ [Get started using [!DNL Assets Essentials]](get-started.md)
 + [Understand interface and navigation](understand-interface.md)
-+ [Upload assets](add-assets.md)
++ [Upload assets](add-delete-assets.md)
 + [Search and discover assets](search-assets.md)
 + [Manage assets](manage-assets.md)
 + [Edit images](edit-images.md)
