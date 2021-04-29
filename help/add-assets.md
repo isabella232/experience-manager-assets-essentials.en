@@ -1,6 +1,6 @@
 ---
 title: Upload assets to the repository
-description: Upload assets to [!DNL Assets Essentials]
+description: Upload assets to [!DNL Assets Essentials], view upload statuses, and resolve upload issues.
 role: Business Practitioner
 ---
 

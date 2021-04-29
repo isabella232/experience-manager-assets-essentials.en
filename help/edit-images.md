@@ -1,6 +1,6 @@
 ---
 title: Edit images
-description: Edit images to make quick and effective edits using Adobe Photoshop Express
+description: Edit images using [!DNL Adobe Photoshop Express] powered options and save updated images as versions.
 role: Business Practitioner
 ---
 

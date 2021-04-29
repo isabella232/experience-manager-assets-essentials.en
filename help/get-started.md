@@ -1,6 +1,6 @@
 ---
-title: Introduction to [!DNL Assets Essentials]
-description: Use [!DNL Assets Essentials].
+title: Get started using [!DNL Assets Essentials]
+description: How to access, login experience of, supported use cases of, and known issues of [!DNL Assets Essentials].
 role: Business Practitioner, Leader
 ---
 # Get started using [!DNL Experience Manager Assets Essentials] {#assets-essentials-get-started}

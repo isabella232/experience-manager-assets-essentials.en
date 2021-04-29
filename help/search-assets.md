@@ -1,6 +1,6 @@
 ---
-title: Search and discover assets in Assets Essentials
-description: Search and discover assets in Assets Essentials
+title: Search and discover assets in [!DNL Assets Essentials]
+description: Search and discover assets in [!DNL Assets Essentials].
 role: Business Practitioner
 ---
 

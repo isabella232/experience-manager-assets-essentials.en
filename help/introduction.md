@@ -1,6 +1,6 @@
 ---
 title: Introduction to [!DNL Assets Essentials]
-description: Use [!DNL Assets Essentials].
+description: [!DNL Assets Essentials] overview and solution brief
 role: Business Practitioner,Leader
 ---
 # [!DNL Adobe Experience Manager Assets Essentials] overview {#assets-essentials}

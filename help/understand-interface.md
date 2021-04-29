@@ -1,6 +1,6 @@
 ---
 title: Assets Essentials user interface
-description: Understand user interface and navigation
+description: Understand user interface of and navigation in [!DNL Assets Essentials]. View assets and metadata.
 role: Business Practitioner
 ---
 
