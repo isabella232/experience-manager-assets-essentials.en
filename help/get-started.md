@@ -5,9 +5,9 @@ role: Business Practitioner, Leader
 ---
 # Get started using [!DNL Experience Manager Assets Essentials] {#assets-essentials-get-started}
 
-To get started using the solution, use your access to the beta program and log in at [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets).
+To access [!DNL Assets Essentials], use the access received via the beta program and log in at [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). To receive access, contact your organization's administrator.
 
-To get started using the solution interface, see [understand the user interface](/help/understand-interface.md). Also, see a list of use cases, supported file types, and known issues below.
+To get started using [!DNL Assets Essentials], see [understand the user interface](/help/understand-interface.md). Also, see a list of use cases, supported file types, and known issues below.
 
 ## Login experience {#login-experience}
 
