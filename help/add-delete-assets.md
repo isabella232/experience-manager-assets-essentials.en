@@ -25,7 +25,7 @@ Once all files are queued, click **[!UICONTROL Upload]**.
 
 *Figure: Before you upload the selected assets, you can add or remove assets from the queue.*
 
-## View upload status and manage failed uploads {#upload-progress-and-resolution}
+## View upload progress and status {#upload-progress}
 
 When you upload many assets or nested folders to [!DNL Assets Essentials] some assets may fail to upload for various reasons such as duplicate asset, network issues, and so on.
 
@@ -36,6 +36,8 @@ To view a subset of assets based on the upload progress or status, use the filte
 ![Filter the upload progress based on status of upload](assets/filter-upload-progress.png)
 
 *Figure: Filter the assets that you attempted to upload based on their upload status or upload progress.*
+
+## Manage failed uploads {#resolve-upload-fails}
 
 By default, [!DNL Assets Essentials] does not upload duplicate assets and duplicate assets are marked as failed uploads. To resolve, you can create a new version, delete and replace the existing assets, or create a duplicate copy by renaming the asset to be uploaded. You can resolve one asset at a time or do it for all failed duplicates in bulk.
 

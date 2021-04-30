@@ -1,16 +1,16 @@
 ---
-title: Assets Essentials user interface
+title: [!DNL Assets Essentials] user interface
 description: Understand user interface of and navigation in [!DNL Assets Essentials]. View assets and metadata.
 role: Business Practitioner
 ---
 
 # Understand the [!DNL Assets Essentials] user interface {#understand-interface-navigation}
 
-Assets Essentials offers very intuitive and user-friendly user interface. The clean interface makes assets and related information easy to find and remember.
+[!DNL Assets Essentials] offers very intuitive and user-friendly user interface. The clean interface makes assets and related information easy to find and remember.
 
-When you log into Assets Essentials, you see the following interface.
+When you log into [!DNL Assets Essentials], you see the following interface.
 
-![Assets Essentials user interface](assets/essentials-interface1.png)
+![[!DNL Assets Essentials] user interface](assets/essentials-interface1.png)
 
 *Figure: First login screen and where to find the salient features.*
 &nbsp;&nbsp;&nbsp; *A: Left sidebar to browse repository and provides access to a few other options.*
@@ -30,7 +30,7 @@ You can browse to the required files or folders from the main user interface or 
 
 * **Assets**: List of all folders and assets in a tree view, that you have access to.
 * **Recently Viewed**: List of assets that you previewed recently. These are not the assets that displayed while browsing but the ones that were previewed.
-* **Libraries**: Access to Adobe Creative Cloud Team (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
+* **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
 
 You can open or collapse the left sidebar to increase the available asset-viewing area.
 
@@ -82,6 +82,6 @@ To view versions, open an asset's preview and click **[!UICONTROL Versions]** ![
 
 You can also create new versions from the versions timeline. Select the latest version, click **[!UICONTROL New Version]** and upload a new copy of the asset from your local file system.
 
-![View versions of an asset](assets/view-asset-versions.png)
+![View versions of an asset](assets/view-asset-versions1.png)
 
 *Figure: View versions of an asset, revert to a previous version, or upload another new version.*

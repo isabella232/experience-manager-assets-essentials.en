@@ -18,3 +18,25 @@ Use [!DNL Assets Essentials] to accomplish the following asset management tasks.
 * ![copy icon](assets/do-not-localize/copy-icon.svg) Copy the selected file or folder.
 * ![move icon](assets/do-not-localize/move-icon.svg) Move the selected asset or folder to a different location in the repository hierarchy.
 * ![rename icon](assets/do-not-localize/rename-icon.svg) Rename the selected asset or folder. Use a unique name else rename fails with a warning.
+
+You can view the same options on assets thumbnails.
+
+![Options on asset thumbnail to manage an asset](assets/options-on-thumbnail.png)
+
+## Asset versioning {#create-versions}
+
+[!DNL Assets Essentials] allows you to save multiple versions of the same asset. Having versions lets you review historical assets and revert to a previous version if needed. Asset versions are created in the following scenarios:
+
+* Upload a new asset with the same filename as an existing asset and in the same folder as the existing asset. [!DNL Assets Essentials] prompts to either overwrite the previous asset or save the new asset as a version. See [upload duplicate assets](/help/add-delete-assets.md#resolve-upload-fails).
+
+  ![Create versions when uploading](assets/uploads-manage-duplicates.png)
+
+* After editing an image, click **[!UICONTROL Save as Version]** to save the new image. See [edit images](/help/edit-images.md).
+
+  ![Save edited image as a version](assets/edit-image2.png)
+
+  *Figure: Save edited image as a version.*
+
+* Open the versions of an existing asset. Click **[!UICONTROL New Version]** and upload a newer version of the asset in the repository. See [view versions of an asset](/help/understand-interface.md#view-versions).
+
+  ![Option to upload a new version of an asset from the version history](assets/view-asset-versions2.png)
