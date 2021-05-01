@@ -34,6 +34,26 @@ To save your edits, click **[!UICONTROL Crop Image]**. After editing, you can sa
 
 Many default options let you to crop your image to the best proportions that that fit various social media profiles and posts.
 
+## Resize image {#resize-image}
+
+Resizing an image to a specific size is a popular image editing use case that [!DNL Assets Essentials] fulfils. It lets you quickly resize image to fit the common photo sizes by providing pre-calculated new resolutions for specific photo sizes. You can view the common photo sizes in centimeters or inches to know the dimensions. By default, the resizing method retain the aspect ratio. To manually override the aspect ratio, click ![](assets/do-not-localize/lock-closed-icon.svg).
+
+Enter the dimensions and click **[!UICONTROL Resize Image]** to resize the image. Before you save the changes as a version, you can either undo all the changes done before saving by clicking [!UICONTROL Undo] or you can change the specific step in the editing process by clicking [!UICONTROL Revert].
+
+![Options when resizing an image](assets/resize-image.png)
+
+## Adjust image {#adjust-image}
+
+[!DNL Assets Essentials] lets you adjust the color, tone, contrast and so on with a few clicks. Click **[!UICONTROL Adjust image]** in the edit window. The following options are available in the right sidebar:
+
+* **Popular**: [!UICONTROL High Contrast & Detail], [!UICONTROL Desaturated Contrast], [!UICONTROL Aged Photo], [!UICONTROL B&W Soft], and [!UICONTROL B&W Sepia Tone].
+* **Color**: [!UICONTROL Natural], [!UICONTROL Bright], [!UICONTROL High Contrast], [!UICONTROL High Contrast & Detail], [!UICONTROL Vivid], and [!UICONTROL Matte].
+* **Creative**: [!UICONTROL Desaturated Contrast], [!UICONTROL Cool Light], [!UICONTROL Turquoise & Red], [!UICONTROL Soft Mist], [!UICONTROL Vintage Instant], [!UICONTROL Warm Contrast], [!UICONTROL Flat & Green], [!UICONTROL Red Lift Matte], [!UICONTROL Warm Shadows], and [!UICONTROL Aged Photo].
+* **B&W**: [!UICONTROL B&W Landscape], [!UICONTROL B&W High Contrast], [!UICONTROL B&W Punch], [!UICONTROL B&W Low Contrast], [!UICONTROL B&W Flat], [!UICONTROL B&W Soft], [!UICONTROL B&W Infrared], [!UICONTROL B&W Selenium Tone], [!UICONTROL B&W Sepia Tone], and [!UICONTROL B&W Split Tone].
+* **Vignetting**: [!UICONTROL None], [!UICONTROL Light], [!UICONTROL Medium], and [!UICONTROL Heavy].
+
+![Adjust image by editing](assets/adjust-image.png)
+
 <!--
 TBD: Insert animated GIF of all the available social media options. 
 -->
