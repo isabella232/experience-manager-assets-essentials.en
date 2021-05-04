@@ -14,8 +14,8 @@ role: Business Practitioner, Leader
 
 + [Solution overview](introduction.md)
 + [Get started using [!DNL Assets Essentials]](get-started.md)
-+ [Understand interface and navigation](understand-interface.md)
-+ [Upload assets](add-delete-assets.md)
++ [Understand user interface and navigation](understand-interface.md)
++ [Upload and add assets](add-delete-assets.md)
 + [Search and discover assets](search-assets.md)
 + [Manage assets](manage-assets.md)
 + [Edit images](edit-images.md)

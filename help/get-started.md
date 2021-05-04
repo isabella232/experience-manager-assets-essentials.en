@@ -13,9 +13,9 @@ To get started using [!DNL Assets Essentials], see [understand the user interfac
 
 When logging in, after providing the credentials, you may be prompted to select an account. In this case, select `Company or School Account` to proceed.
 
-![Select an account to login](assets/login-select-account.png)
+![Select an account to login](assets/do-not-localize/login-experience.gif)
 
-## Supported use cases {#use-cases}
+## [!DNL Assets Essentials] use cases {#use-cases}
 
 The various digital asset management (DAM) tasks that you can accomplish using [!DNL Assets Essentials] are below.
 
