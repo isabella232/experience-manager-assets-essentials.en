@@ -11,7 +11,7 @@ To get started using [!DNL Assets Essentials], see [understand the user interfac
 
 ## Login experience {#login-experience}
 
-When logging in, after providing the credentials, you may be prompted to select an account. In this case, select `Company or School Account` to proceed.
+When logging in, after providing the credentials, you can be prompted to select an account. In this case, select `Company or School Account` to proceed.
 
 ![Select an account to login](assets/do-not-localize/login-experience.gif)
 
@@ -21,7 +21,7 @@ The various digital asset management (DAM) tasks that you can accomplish using [
 
 | User tasks | Functionality and how-to information |
 |-----|------|
-| How do I discover assets? | <ul> <li>[Browse repository](/help/understand-interface.md#view-assets-and-details) </li> <li> [Preview asset](/help/understand-interface.md#view-assets-and-details) and [download assets](/help/manage-assets.md) </li> <li>[View detailed metadata](/help/understand-interface.md#view-assets-and-details) </li> <li>[Search assets](/help/search-assets.md)</li></ul> | 
+| How do I discover assets? | <ul> <li>[Browse repository](/help/understand-interface.md#view-assets-and-details) </li> <li> [Preview asset](/help/understand-interface.md#view-assets-and-details) and [download assets](/help/manage-assets.md) </li> <li>[View detailed metadata](/help/metadata.md) </li> <li>[Search assets](/help/search-assets.md)</li></ul> | 
 | How do I add new assets? | <ul> <li>[Upload new assets and folders](/help/add-delete-assets.md#add-assets)</li> <li>[Monitor upload progress and manage uploads](/help/add-delete-assets.md)</li> <li>[Resolve duplicates](/help/add-delete-assets.md#resolve-upload-fails)</li> </ul> |
 | How do I update assets or related information? | <ul> <li>Change an existing asset</li> <li>[Create versions](/help/add-delete-assets.md#tbd) and [view versions](/help/understand-interface.md#view-versions)</li> <li>[Edit images](/help/edit-images.md)</li> </ul> |
 | How do I delete assets? | <ul> <li>[Delete assets](/help/manage-assets.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
@@ -39,7 +39,7 @@ The above use cases are supported for the following file types.
 * ![document file type icon](assets/do-not-localize/document-icon.png) Documents: DOCX, PDF, PPTX, and XLSX
 * ![video file type icon](assets/do-not-localize/video-icon.png) Videos: MP4
 
-There may be minor limitations in the functionality for specific formats.
+There are some minor known issues in how each feature works with each supported format. These issues are documented in the specific feature articles.
 
 ## ![feedback icon](assets/do-not-localize/feedback-icon.png) Provide product feedback {#provide-feedback}
 
@@ -51,7 +51,7 @@ The team welcomes feedback related to product, beta program, documentation, and 
 
 ## Known issues {#known-issues}
 
-For now, the product is in beta and has the following known issues. As the product evolves, we will address the issues. For now, if you come across any other issues, [provide feedback](#provide-feedback) to the team.
+For now, the product is in beta and has the following known issues. As the product evolves, Adobe keeps addressing the issues. For now, if you come across any other issues, [provide feedback](#provide-feedback) to the team.
 
-* For now, you can only select 1 asset or folder at a time.
+* For now, you can only select one asset or folder at a time.
 * For now, you can download only individual assets and not folders.

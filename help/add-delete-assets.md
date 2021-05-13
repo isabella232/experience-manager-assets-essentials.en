@@ -15,7 +15,7 @@ You can use the following methods to upload one or more assets or a folder conta
 
 ![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif)
 
-You can use any of these methods to upload assets after creating a folder. Click **[!UICONTROL Create Folder]** from the toolbar to create an empty folder. While [!DNL Assets Essentials] offers a powerful, full-text search functionality, you can also use folders to organize your assets better.
+You can use any of these methods to upload assets after creating a folder. To create an empty folder, click **[!UICONTROL Create Folder]** from the toolbar. While [!DNL Assets Essentials] offers a powerful, full-text search functionality, you can also use folders to organize your assets better.
 
 Once you have selected the files, you get a confirmation dialog to add more files or to remove already selected files. To add more files to a selection, click **[!UICONTROL Browse]** and the select **[!UICONTROL Browse files]** or **[!UICONTROL Browse folders]**. Add more files or folders from the same or from a different folder.
 
@@ -27,7 +27,7 @@ Once all files are queued, click **[!UICONTROL Upload]**.
 
 ## View upload progress and status {#upload-progress}
 
-When you upload many assets or nested folders to [!DNL Assets Essentials] some assets may fail to upload for various reasons such as duplicate asset, network issues, and so on.
+When you upload many assets or nested folders to [!DNL Assets Essentials], some assets can fail to upload for various reasons such as duplicate asset and network issues.
 
 To track the upload progress, click **[!UICONTROL Upload Progress]** option on the toolbar. A panel displays the upload progress of all assets.
 
@@ -39,7 +39,7 @@ To view a subset of assets based on the upload progress or status, use the filte
 
 ## Manage failed uploads {#resolve-upload-fails}
 
-By default, [!DNL Assets Essentials] does not upload duplicate assets and duplicate assets are marked as failed uploads. To resolve, you can create a new version, delete and replace the existing assets, or create a duplicate copy by renaming the asset to be uploaded. You can resolve one asset at a time or do it for all failed duplicates in bulk.
+By default, you cannot upload duplicate assets as the duplicate assets are marked as failed uploads. To resolve, you can create a version, delete and replace the existing assets, or create a duplicate copy by renaming the asset to be uploaded. You can resolve one asset at a time or do it for all failed duplicates in bulk.
 
 ![Manage duplicate assets one at a time](assets/uploads-manage-duplicates.png)
 
