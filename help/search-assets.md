@@ -6,7 +6,7 @@ role: Business Practitioner
 
 # Search assets in [!DNL Assets Essentials] {#search-assets}
 
-[!DNL Assets Essentials] provides effective search, that just works by default. The search is comprehensive as it is full-text search. The powerful search functionality lets you quickly discover the appropriate asset and help you improve your content velocity. [!DNL Assets Essentials] provides full-text search and even searches through the metadata such as smart tags, description, copyright, and so on.
+[!DNL Assets Essentials] provides effective search, that just works by default. The search is comprehensive as it is full-text search. The powerful search functionality lets you quickly discover the appropriate asset and help you improve your content velocity. [!DNL Assets Essentials] provides full-text search and even searches through the metadata such as smart tags, title, date created, and copyright.
 
 To search assets, 
 
@@ -37,4 +37,14 @@ You can sort the searched assets in increasing or decreasing order of `Name`, `R
 <!--
 ## Saved searches {#saved-search}
 
+-->
+
+<!-- TBD: Search behavior. Full-text search. Ranking and rank boosts. Hidden assets.
+
+Talk about factors that help assets surface up in search results. Keyword must appear in content or in smart tags.
+Are PDFs fully indexed and support full-text search?
+Is audio from MP4 files transcribed and indexed?
+Anything about confidence and ranking of assets displayed in search results?
+What about temporarily hiding an asset (suspending search on it) from the search results? If an asset is undergoing review collaboration, should it be used by others? Shouldn't it be hidden in search?
+If someone adds another asset, will it display in search as soon as the first user refreshes the page.
 -->

@@ -12,7 +12,7 @@ Use [!DNL Assets Essentials] to accomplish the following asset management tasks.
 ![Toolbar options when you select an asset](assets/toolbar-asset-selected.png)
 
 * ![deselect icon](assets/do-not-localize/close-icon.png) Deselect the selection.
-* ![details icon](assets/do-not-localize/edit-in-icon.svg) Click to preview an asset and view the detailed metadata. When previewing, you also have an option to view the versions and edit an image.
+* ![details icon](assets/do-not-localize/edit-in-icon.svg) Click to preview an asset and view the detailed metadata. When previewing, you can view the versions and edit an image.
 * ![download icon](assets/do-not-localize/download-icon.svg) Download the selected asset to your local file system. You do not see a download option for a folder.
 * ![delete icon](assets/do-not-localize/delete-icon.svg) Delete the selected asset or folder.
 * ![copy icon](assets/do-not-localize/copy-icon.svg) Copy the selected file or folder.

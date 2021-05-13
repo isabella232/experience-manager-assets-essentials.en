@@ -19,4 +19,5 @@ role: Business Practitioner, Leader
 + [Search and discover assets](search-assets.md)
 + [Manage assets](manage-assets.md)
 + [Edit images](edit-images.md)
++ [Manage asset metadata](metadata.md)
 + [Integration with other solutions](integration.md)
