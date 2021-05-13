@@ -27,7 +27,7 @@ To view the metadata of an asset, browse to the asset or search the asset, selec
 
 *Figure: To view an asset and its metadata, click **[!UICONTROL Details]** from toolbar or double-click on the asset.*
 
-# Tags {#tags}
+## Tags {#tags}
 
 [!DNL Assets Essentials] uses artificial intelligence provided by [Adobe Sensei](https://www.adobe.com/sensei.html) to apply relevant tags to all your uploaded assets. These tags, aptly named Smart Tags, help you manage assets by automatically applying tags. The smart tags are an example of metadata that is not contained in the image. 
 
