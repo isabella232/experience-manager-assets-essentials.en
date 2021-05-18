@@ -15,11 +15,6 @@ The metadata.md file includes repo-level metadata that passes through to user gu
 
 | metadata | what it does |
 |--- |--- |
-| solution-title | Used in article header as link. |
-| solution-hub-url | Opens the Learn and Support hub page. |
-| solution-icon | Displays solution icon next to solution title. Not yet implemented. |
-| getting-started-url | Link to the get started page. |
-| tutorials-url | Link to the video tutorials. |
 | mini-toc-levels | Determines the number of heading levels that appear in right rail. The default value is 2. |
 | git-repo | Specifies the location of the main repo for internal use. |
 
