@@ -27,7 +27,7 @@ You can view the same options on assets thumbnails.
 
 [!DNL Assets Essentials] allows you to save multiple versions of the same asset. Having versions lets you review historical assets and revert to a previous version if needed. Asset versions are created in the following scenarios:
 
-* Upload a new asset with the same filename as an existing asset and in the same folder as the existing asset. [!DNL Assets Essentials] prompts to either overwrite the previous asset or save the new asset as a version. See [upload duplicate assets](/help/add-delete-assets.md#resolve-upload-fails).
+* Upload a new asset with the same filename as an existing asset and in the same folder as the existing asset. [!DNL Assets Essentials] prompts to either overwrite the previous asset or save the new asset as a version. See [upload duplicate assets](/help/add-delete.md#resolve-upload-fails).
 
   ![Create versions when uploading](assets/uploads-manage-duplicates.png)
 
