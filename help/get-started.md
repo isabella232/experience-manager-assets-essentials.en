@@ -36,10 +36,10 @@ The various digital asset management (DAM) tasks that you can accomplish using [
 
 | User tasks | Functionality and how-to information |
 |-----|------|
-| How do I discover assets? | <ul> <li>[Browse repository](/help/understand-interface.md#view-assets-and-details) </li> <li> [Preview asset](/help/understand-interface.md#view-assets-and-details) and [download assets](/help/manage-assets.md) </li> <li>[View detailed metadata](/help/metadata.md) </li> <li>[Search assets](/help/search.md)</li></ul> | 
+| How do I discover assets? | <ul> <li>[Browse repository](/help/understand-interface.md#view-assets-and-details) </li> <li> [Preview asset](/help/understand-interface.md#view-assets-and-details) and [download assets](/help/manage-organize.md) </li> <li>[View detailed metadata](/help/metadata.md) </li> <li>[Search assets](/help/search.md)</li></ul> | 
 | How do I add new assets? | <ul> <li>[Upload new assets and folders](/help/add-delete.md#add-assets)</li> <li>[Monitor upload progress and manage uploads](/help/add-delete.md)</li> <li>[Resolve duplicates](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
 | How do I update assets or related information? | <ul> <li>Change an existing asset</li> <li>[Create versions](/help/add-delete.md#tbd) and [view versions](/help/understand-interface.md#view-versions)</li> <li>[Edit images](/help/edit-images.md)</li> </ul> |
-| How do I delete assets? | <ul> <li>[Delete assets](/help/manage-assets.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
+| How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
 | How do I search for assets in the repository? | <ul> <li>[Search within a specific folder](/help/search.md)</li> <li>[Saved searches](/help/search.md)</li> <li>[Search for recently viewed assets](/help/search.md)</li> <li>[Full-text search](/help/search.md)</li> <li>Search metadata</li> </ul> |
 | How do I edit assets in the repository? | <ul> <li>[In-browser edits using Adobe Photoshop Express](/help/edit-images.md)</li> <li>Crop for a social media profile</li> <li>[View and manage versions](/help/understand-interface.md#view-versions)</li> <li>Use [Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
 | How do I share assets or find shared assets? | <ul> <li>Shared by me</li> <li>Shared with me</li> <li>Share for comments and review</li> <li>Unshare assets</li> </ul> |
