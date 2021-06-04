@@ -54,5 +54,5 @@ How can one search based strictly on the metadata. Similar to AEM Assets GQL que
 
 >[!MORELIKETHIS]
 >
->* [Search assets](search-assets.md).
+>* [Search assets](search.md).
 -->
