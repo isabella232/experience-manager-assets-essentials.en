@@ -8,7 +8,7 @@ role: Business Practitioner
 
 [!DNL Assets Essentials] provides user-friendly editing options that are powered by [!DNL Adobe Photoshop Express]. The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.
 
-After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later, if needed. To edit an image, open its preview and click **[!UICONTROL Edit Image]** ![edit icon](assets/do-not-localize/edit.svg) from the rail on the right.
+After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later, if needed. To edit an image, open its preview and click **[!UICONTROL Edit Image]** ![edit icon](assets/do-not-localize/edit-icon.png) from the rail on the right.
 
 ![Options to edit an image](assets/edit-image2.png)
 
@@ -36,7 +36,7 @@ Many default options let you crop your image to the best proportions that fit va
 
 ## Resize image {#resize-image}
 
-Resizing an image to a specific size is a popular use case. [!DNL Assets Essentials] lets you quickly resize image to fit the common photo sizes by providing pre-calculated new resolutions for specific photo sizes. You can view the common photo sizes in centimeters or inches to know the dimensions. By default, the resizing method retains the aspect ratio. To manually override the aspect ratio, click ![](assets/do-not-localize/lock-closed-icon.svg).
+Resizing an image to a specific size is a popular use case. [!DNL Assets Essentials] lets you quickly resize image to fit the common photo sizes by providing pre-calculated new resolutions for specific photo sizes. You can view the common photo sizes in centimeters or inches to know the dimensions. By default, the resizing method retains the aspect ratio. To manually override the aspect ratio, click ![](assets/do-not-localize/lock-closed-icon.png).
 
 Enter the dimensions and click **[!UICONTROL Resize Image]** to resize the image. Before you save the changes as a version, you can either undo all the changes done before saving by clicking [!UICONTROL Undo] or you can change the specific step in the editing process by clicking [!UICONTROL Revert].
 

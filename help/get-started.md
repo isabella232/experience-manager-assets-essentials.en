@@ -9,6 +9,21 @@ To access [!DNL Assets Essentials], use the access received via the beta program
 
 To get started using [!DNL Assets Essentials], see [understand the user interface](/help/understand-interface.md). Also, see a list of use cases, supported file types, and known issues below.
 
+## Receive access to the [!DNL Assets Essentials] {#get-access}
+
+Adobe provisions the solution and adds the designated person from your organization as an administrator. The administrators can provide access to various users from the organization by using [!DNL Admin Console]. For requests related to your access, contact your organization administrator.
+
+## Configure [!DNL Assets Essentials] {#configuration}
+
+If the users are a part of different organizations, they can switch between the organization. To open preferences, click on the avatar in the upper-right corner of the user interface.
+
+Users can switch between the light and dark themes in the solution preferences.
+
+![Preference to switch dark and light theme](assets/theme-change.png)
+
+<!-- TBD: What can admins configure? What more can users configure? Any doc that describes Exp Cloud preferences? 
+Metadata forms is out of the scope of 6/17 GA. When the functionality is added, link to it from here. It is about configuring metadata UI. -->
+
 ## Login experience {#login-experience}
 
 When logging in, after providing the credentials, you can be prompted to select an account. In this case, select `Company or School Account` to proceed.
@@ -21,11 +36,11 @@ The various digital asset management (DAM) tasks that you can accomplish using [
 
 | User tasks | Functionality and how-to information |
 |-----|------|
-| How do I discover assets? | <ul> <li>[Browse repository](/help/understand-interface.md#view-assets-and-details) </li> <li> [Preview asset](/help/understand-interface.md#view-assets-and-details) and [download assets](/help/manage-assets.md) </li> <li>[View detailed metadata](/help/metadata.md) </li> <li>[Search assets](/help/search-assets.md)</li></ul> | 
-| How do I add new assets? | <ul> <li>[Upload new assets and folders](/help/add-delete-assets.md#add-assets)</li> <li>[Monitor upload progress and manage uploads](/help/add-delete-assets.md)</li> <li>[Resolve duplicates](/help/add-delete-assets.md#resolve-upload-fails)</li> </ul> |
-| How do I update assets or related information? | <ul> <li>Change an existing asset</li> <li>[Create versions](/help/add-delete-assets.md#tbd) and [view versions](/help/understand-interface.md#view-versions)</li> <li>[Edit images](/help/edit-images.md)</li> </ul> |
-| How do I delete assets? | <ul> <li>[Delete assets](/help/manage-assets.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
-| How do I search for assets in the repository? | <ul> <li>[Search within a specific folder](/help/search-assets.md)</li> <li>[Saved searches](/help/search-assets.md)</li> <li>[Search for recently viewed assets](/help/search-assets.md)</li> <li>[Full-text search](/help/search-assets.md)</li> <li>Search metadata</li> </ul> |
+| How do I discover assets? | <ul> <li>[Browse repository](/help/understand-interface.md#view-assets-and-details) </li> <li> [Preview asset](/help/understand-interface.md#view-assets-and-details) and [download assets](/help/manage-organize.md) </li> <li>[View detailed metadata](/help/metadata.md) </li> <li>[Search assets](/help/search.md)</li></ul> | 
+| How do I add new assets? | <ul> <li>[Upload new assets and folders](/help/add-delete.md#add-assets)</li> <li>[Monitor upload progress and manage uploads](/help/add-delete.md)</li> <li>[Resolve duplicates](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| How do I update assets or related information? | <ul> <li>Change an existing asset</li> <li>[Create versions](/help/add-delete.md#tbd) and [view versions](/help/understand-interface.md#view-versions)</li> <li>[Edit images](/help/edit-images.md)</li> </ul> |
+| How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
+| How do I search for assets in the repository? | <ul> <li>[Search within a specific folder](/help/search.md)</li> <li>[Saved searches](/help/search.md)</li> <li>[Search for recently viewed assets](/help/search.md)</li> <li>[Full-text search](/help/search.md)</li> <li>Search metadata</li> </ul> |
 | How do I edit assets in the repository? | <ul> <li>[In-browser edits using Adobe Photoshop Express](/help/edit-images.md)</li> <li>Crop for a social media profile</li> <li>[View and manage versions](/help/understand-interface.md#view-versions)</li> <li>Use [Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
 | How do I share assets or find shared assets? | <ul> <li>Shared by me</li> <li>Shared with me</li> <li>Share for comments and review</li> <li>Unshare assets</li> </ul> |
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
