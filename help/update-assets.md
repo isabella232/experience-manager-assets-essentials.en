@@ -14,4 +14,4 @@ You can update the existing assets by uploading a new version or editing images 
 >
 >* [Edit images](edit-images.md)
 >* [View versions of an asset](understand-interface.md#view-versions)
->* [Delete an asset](manage.md#delete-assets)
+>* [Delete an asset](manage-organize.md#delete-assets)
