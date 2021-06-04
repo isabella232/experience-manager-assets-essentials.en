@@ -9,6 +9,21 @@ To access [!DNL Assets Essentials], use the access received via the beta program
 
 To get started using [!DNL Assets Essentials], see [understand the user interface](/help/understand-interface.md). Also, see a list of use cases, supported file types, and known issues below.
 
+## Receive access to the [!DNL Assets Essentials] {#get-access}
+
+Adobe provisions the solution and adds the designated person from your organization as an administrator. The administrators can provide access to various users from the organization by using [!DNL Admin Console]. For requests related to your access, contact your organization administrator.
+
+## Configure [!DNL Assets Essentials] {#configuration}
+
+If the users are a part of different organizations, they can switch between the organization. To open preferences, click on the avatar in the upper-right corner of the user interface.
+
+Users can switch between the light and dark themes in the solution preferences.
+
+![Preference to switch dark and light theme](assets/theme-change.png)
+
+<!-- TBD: What can admins configure? What more can users configure? Any doc that describes Exp Cloud preferences? 
+Metadata forms is out of the scope of 6/17 GA. When the functionality is added, link to it from here. It is about configuring metadata UI. -->
+
 ## Login experience {#login-experience}
 
 When logging in, after providing the credentials, you can be prompted to select an account. In this case, select `Company or School Account` to proceed.

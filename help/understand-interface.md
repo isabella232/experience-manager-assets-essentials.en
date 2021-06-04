@@ -44,10 +44,10 @@ You can open or collapse the left sidebar to increase the available asset-viewin
 
 In [!DNL Assets Essentials], you can view assets, folders, and search results in four different types of layouts.
 
-* ![list view icon](assets/do-not-localize/list-view.svg) [!UICONTROL List View]
-* ![grid view icon](assets/do-not-localize/grid-view.svg) [!UICONTROL Grid View]
-* ![gallery view icon](assets/do-not-localize/gallery-view.svg) [!UICONTROL Gallery View]
-* ![waterfall view icon](assets/do-not-localize/waterfall-view.svg) [!UICONTROL Waterfall View]
+* ![list view icon](assets/do-not-localize/list-view.png) [!UICONTROL List View]
+* ![grid view icon](assets/do-not-localize/grid-view.png) [!UICONTROL Grid View]
+* ![gallery view icon](assets/do-not-localize/gallery-view.png) [!UICONTROL Gallery View]
+* ![waterfall view icon](assets/do-not-localize/waterfall-view.png) [!UICONTROL Waterfall View]
 
 To browse to an asset, use the navigation hierarchy in the left sidebar. When browsing, you can use the interface to view asset thumbnails to visually browse the repository or view asset details to quickly find the asset you want.
 
@@ -65,7 +65,7 @@ To navigate into a folder, double-click on the folder's thumbnails or select the
 
 When uploading a duplicate copy or a modified copy of an asset, you can create its versions. Versioning lets you review historical assets and revert to a previous version if needed.
 
-To view versions, open an asset's preview and click **[!UICONTROL Versions]** ![Versions icon](assets/do-not-localize/versions-clock-icon.svg) from the right sidebar. To preview a specific version, select it. To revert to it, click **[!UICONTROL Make Latest]**.
+To view versions, open an asset's preview and click **[!UICONTROL Versions]** ![Versions icon](assets/do-not-localize/versions-clock-icon.png) from the right sidebar. To preview a specific version, select it. To revert to it, click **[!UICONTROL Make Latest]**.
 
 You can also create versions from the versions timeline. Select the latest version, click **[!UICONTROL New Version]**, and upload a new copy of the asset from your local file system.
 

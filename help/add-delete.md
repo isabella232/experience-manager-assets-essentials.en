@@ -52,3 +52,15 @@ By default, you cannot upload duplicate assets as the duplicate assets are marke
 >[!TIP]
 >
 >You can upload assets to the DAM repository directly from within your [!DNL Creative Cloud] desktop applications. See how [[!DNL Assets Essentials] integrates with [!DNL Adobe Asset Link]](/help/integration.md). 
+
+## Delete assets {#delete-assets}
+
+Users can delete individual assets or folders that are no longer required. To delete an asset or a folder do one of the following:
+
+* Use the option available on an asset's or a folder's thumbnail.
+
+  ![Options on asset thumbnail to manage an asset](assets/options-on-thumbnail.png)
+
+* Select an asset or a folder and use the option available in the toolbar.
+
+  ![Toolbar options when you select an asset](assets/toolbar-asset-selected.png)
