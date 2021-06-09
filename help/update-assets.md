@@ -9,9 +9,13 @@ contentOwner: AG
 
 You can update the existing assets by uploading a new version or editing images in [!DNL Assets Essentials].
 
+<!-- TBD: Discard this article if not too much unique content for it.
+Merge the update asset part in manage assets or upload assets.
+Edit images article.
+-->
 
 >[!MORELIKETHIS]
 >
 >* [Edit images](edit-images.md)
->* [View versions of an asset](understand-interface.md#view-versions)
+>* [View versions of an asset](navigate-view.md#view-versions)
 >* [Delete an asset](manage-organize.md#delete-assets)

@@ -25,6 +25,9 @@ You can view the same options on assets thumbnails.
 
 ## Asset versioning {#create-versions}
 
+<!-- 
+TBD: query for engineering: How many versions are maintained. What happens when we reach that limit? Are old versions automatically removed? -->
+
 [!DNL Assets Essentials] allows you to save multiple versions of the same asset. Having versions lets you review historical assets and revert to a previous version if needed. Asset versions are created in the following scenarios:
 
 * Upload a new asset with the same filename as an existing asset and in the same folder as the existing asset. [!DNL Assets Essentials] prompts to either overwrite the previous asset or save the new asset as a version. See [upload duplicate assets](/help/add-delete.md#resolve-upload-fails).
@@ -37,6 +40,18 @@ You can view the same options on assets thumbnails.
 
   *Figure: Save edited image as a version.*
 
-* Open the versions of an existing asset. Click **[!UICONTROL New Version]** and upload a newer version of the asset in the repository. See [view versions of an asset](/help/understand-interface.md#view-versions).
+* Open the versions of an existing asset. Click **[!UICONTROL New Version]** and upload a newer version of the asset in the repository.
 
   ![Option to upload a new version of an asset from the version history](assets/view-asset-versions2.png)
+
+### View versions of an asset {#view-versions}
+
+When uploading a duplicate copy or a modified copy of an asset, you can create its versions. Versioning lets you review historical assets and revert to a previous version if needed.
+
+To view versions, open an asset's preview and click **[!UICONTROL Versions]** ![Versions icon](assets/do-not-localize/versions-clock-icon.png) from the right sidebar. To preview a specific version, select it. To revert to it, click **[!UICONTROL Make Latest]**.
+
+You can also create versions from the versions timeline. Select the latest version, click **[!UICONTROL New Version]**, and upload a new copy of the asset from your local file system.
+
+![View versions of an asset](assets/view-asset-versions1.png)
+
+*Figure: View versions of an asset, revert to a previous version, or upload another new version.*
