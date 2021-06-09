@@ -19,19 +19,25 @@ With the addition of metadata, the value of a digital asset grows, because the a
 
 For these reasons, Assets provides you with the right means of creating, managing, and exchanging metadata for your digital assets.
 
-## View metadata {#view-metadata}
+## View the metadata {#view-metadata}
 
 To view the metadata of an asset, browse to the asset or search the asset, select the asset, and click **[!UICONTROL Details]** in the toolbar.
 
-![View metadata of an asset](assets/metadata-view.png)
+![View metadata of an asset](assets/metadata-view1.png)
 
 *Figure: To view an asset and its metadata, click **[!UICONTROL Details]** from toolbar or double-click on the asset.*
 
+The basic metadata such as title, description, upload date, and so on is available in the [!UICONTROL Basic] tab. The [!UICONTROL Advanced] tab contains more advanced metadata such as camera model, lens details, geotags, and so on. The [!UICONTROL Tags] tab contains auto-applied tags based on the contents of the image.
+
 ## Tags {#tags}
 
-[!DNL Assets Essentials] uses artificial intelligence provided by [Adobe Sensei](https://www.adobe.com/sensei.html) to apply relevant tags to all your uploaded assets. These tags, aptly named Smart Tags, help you manage assets by automatically applying tags. The smart tags are an example of metadata that is not contained in the image. 
+[!DNL Assets Essentials] uses artificial intelligence provided by [Adobe Sensei](https://www.adobe.com/sensei.html) to automatically apply relevant tags to all your uploaded assets. These tags, aptly named Smart Tags, increase the content velocity of your projects by helping you find relevant assets quickly. The smart tags are an example of metadata that is not contained in the image. 
 
-Upon uploading an asset, the user interface displays [!UICONTROL Processing] on the asset thumbnail for some time. Once the processing is complete, you can [view the smart tags](#view-metadata) in the metadata. The smart tags are applied in near-real-time and are generated based on the contents of the image.
+The smart tags are applied in near-real-time and are generated based on the contents of the image. When you upload an asset, the user interface displays [!UICONTROL Processing] on the asset thumbnail for some time. Once the processing is complete, you can [view the metadata](#view-metadata) and the smart tags.
+
+![View Smart Tags of an asset](assets/metadata-view-tags.png)
+
+*Figure: To view the Smart Tags of an asset, click **[!UICONTROL Details]** from toolbar or double-click on the asset.*
 
 Smart tags also contain a confidence score as a percentage. It indicates the confidence associated with the applied tag. You can moderate the automatically applied smart tags.
 

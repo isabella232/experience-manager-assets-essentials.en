@@ -55,9 +55,9 @@ Enter the dimensions and click **[!UICONTROL Resize Image]** to resize the image
 ![Adjust image by editing](assets/adjust-image.png)
 
 <!--
-TBD: Insert animated GIF of all the available social media options. 
+TBD: Insert a video of the available social media options.
 -->
 
 >[!MORELIKETHIS]
 >
->* [View version history of an asset](/help/understand-interface.md#view-versions)
+>* [View version history of an asset](/help/navigate-view.md)
