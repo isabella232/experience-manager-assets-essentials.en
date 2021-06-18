@@ -6,7 +6,7 @@ role: Business Practitioner
 
 # Upload assets {#add-assets}
 
-To add new assets to work with, upload a few assets from your local file system. Many of the [common file formats are supported](/help/supported-file-formats.md).
+To add new assets to work with, upload a few assets from your local file system. <!-- TBD: Many of the [common file formats are supported](/help/supported-file-formats.md). -->
 
 You can use the following methods to upload one or more assets or a folder containing assets:
 
