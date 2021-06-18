@@ -29,6 +29,10 @@ To view the metadata of an asset, browse to the asset or search the asset, selec
 
 The basic metadata such as title, description, upload date, and so on is available in the [!UICONTROL Basic] tab. The [!UICONTROL Advanced] tab contains more advanced metadata such as camera model, lens details, geotags, and so on. The [!UICONTROL Tags] tab contains auto-applied tags based on the contents of the image.
 
+## Update metadata {#update-metadata}
+
+You can update a few metadata fields manually. This includes [!UICONTROL Title], [!UICONTROL Description], [!UICONTROL Author], and [!UICONTROL Keywords].
+
 ## Tags {#tags}
 
 [!DNL Assets Essentials] uses artificial intelligence provided by [Adobe Sensei](https://www.adobe.com/sensei.html) to automatically apply relevant tags to all your uploaded assets. These tags, aptly named Smart Tags, increase the content velocity of your projects by helping you find relevant assets quickly. The smart tags are an example of metadata that is not contained in the image. 
@@ -41,9 +45,15 @@ The smart tags are applied in near-real-time and are generated based on the cont
 
 Smart tags also contain a confidence score as a percentage. It indicates the confidence associated with the applied tag. You can moderate the automatically applied smart tags.
 
+## Add or update tags {#manually-tag}
+
+You may need to add more tags to your assets, in addition to the Smart Tags that are added automatically using the [!DNL Adobe Sensei] smart service. Open an asset for preview, click [!UICONTROL Tags], and type the desired keywords in the [!UICONTROL Keywords] field. Press Return to add the tag. [!DNL Assets Essentials] indexes the keyword in near real-time and your team can soon search the updated assets using the new keywords.
+
+You can also remove an existing tags from the [!UICONTROL Smart Tags] section.
+
 <!-- TBD: Queries for PM and engg.
 
-Can we edit the existing metadata in any form? 
+Can we edit the existing metadata in any form?
 
 How to moderate smart tags?
 
