@@ -6,14 +6,15 @@ role: Business Practitioner
 
 # Upload assets {#add-assets}
 
-To add new assets to work with, upload a few assets from your local file system. Many of the [common file formats are supported](/help/get-started.md#supported-files).
+To add new assets to work with, upload a few assets from your local file system. <!-- TBD: Many of the [common file formats are supported](/help/supported-file-formats.md). -->
 
 You can use the following methods to upload one or more assets or a folder containing assets:
 
 * Drag assets or folders on the user interface and follow the on-screen instructions.
 * Click **[!UICONTROL Add Assets]** option from the toolbar and add some files to the upload dialog.
 
-![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif)
+<!-- TBD: Update this GIF
+![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) -->
 
 You can use any of these methods to upload assets after creating a folder. To create an empty folder, click **[!UICONTROL Create Folder]** from the toolbar. While [!DNL Assets Essentials] offers a powerful, full-text search functionality, you can also use folders to organize your assets better.
 
@@ -37,6 +38,16 @@ To view a subset of assets based on the upload progress or status, use the filte
 
 *Figure: Filter the assets that you attempted to upload based on their upload status or upload progress.*
 
+Immediately after the assets are uploaded, Assets Essentials processes the assets to generate thumbnail and process metadata. For a large number of assets, the processing takes some time. If do not see a thumbnail and see a processing message on the placeholder thumbnail, check the folder again after a few minutes.
+
+![Processing upon upload](assets/upload-processing.png)
+
+## Asset renditions {#renditions}
+
+Assets Essentials processes the uploaded assets in near real-time and for many supported file types, it generates renditions. Usually created for images, the renditions are resized versions of the uploaded image. You can download not just the asset but also the renditions to use an appropriate version. You can view all the renditions of an asset when you [preview an asset](/help/navigate-view.md#preview-assets).
+
+![Renditions](assets/renditions-view-download.png)
+
 ## Manage failed uploads {#resolve-upload-fails}
 
 By default, you cannot upload duplicate assets as the duplicate assets are marked as failed uploads. To resolve, you can create a version, delete and replace the existing assets, or create a duplicate copy by renaming the asset to be uploaded. You can resolve one asset at a time or do it for all failed duplicates in bulk.
@@ -51,7 +62,7 @@ By default, you cannot upload duplicate assets as the duplicate assets are marke
 
 >[!TIP]
 >
->You can upload assets to the DAM repository directly from within your [!DNL Creative Cloud] desktop applications. See how [[!DNL Assets Essentials] integrates with [!DNL Adobe Asset Link]](/help/integration.md). 
+>You can upload assets to the DAM repository directly from within your [!DNL Creative Cloud] desktop applications. See how [[!DNL Assets Essentials] integrates with [!DNL Adobe Asset Link]](/help/integration.md).
 
 ## Delete assets {#delete-assets}
 

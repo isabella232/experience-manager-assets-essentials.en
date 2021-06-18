@@ -12,6 +12,7 @@ You can update the existing assets by uploading a new version or editing images 
 <!-- TBD: Discard this article if not too much unique content for it.
 Merge the update asset part in manage assets or upload assets.
 Edit images article.
+Link to versioning once an asset is updated.
 -->
 
 >[!MORELIKETHIS]

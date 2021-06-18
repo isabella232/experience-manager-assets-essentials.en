@@ -13,12 +13,12 @@ role: Business Practitioner, Leader
 # [!DNL Assets Essentials] Guide {#help}
 
 + [Solution overview](introduction.md)
++ [Release Notes](release-notes.md)
 + [Get started using [!DNL Assets Essentials]](get-started.md)
 + [View assets](navigate-view.md)
 + [Upload and add assets](add-delete.md)
 + [Search and discover assets](search.md)
-+ [Manage, organize, and preview assets](manage-organize.md)
-+ [Update assets](update-assets.md)
++ [Asset management tasks](manage-organize.md)
 + [Edit images](edit-images.md)
 + [Manage asset metadata](metadata.md)
 + [Integration with other solutions](integration.md)
