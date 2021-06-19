@@ -3,10 +3,9 @@ cloud: Experience Cloud
 solution: Experience Manager, Experience Manager Assets
 product: adobe experience manager
 type: Documentation
-git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-assets-essentials.en
+git-repo: https://github.com/AdobeDocs/experience-manager-assets-essentials.en
 mini-toc-levels: 1
-hide: yes
-index: no
+index: yes
 ---
 
 # Metadata for internal use
