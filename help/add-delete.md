@@ -50,7 +50,13 @@ Assets Essentials processes the uploaded assets in near real-time and for many s
 
 ## Manage failed uploads {#resolve-upload-fails}
 
-By default, you cannot upload duplicate assets as the duplicate assets are marked as failed uploads. To resolve, you can create a version, delete and replace the existing assets, or create a duplicate copy by renaming the asset to be uploaded. You can resolve one asset at a time or do it for all failed duplicates in bulk.
+If upload of a supported asset fails for some reason, click **[!UICONTROL Retry]** from the [!UICONTROL Upload Progress] pane.
+
+![Retry a failed upload](assets/upload-retry.png)
+
+*Figure: Retry if a supported file fails to upload for some reason.*
+
+If you attempt to upload duplicate assets, those are not uploaded without a confirmation from your side. The duplicate assets are marked as failed uploads. To resolve, you can simply create a version, delete and replace the existing assets, or create a duplicate copy by renaming the asset. You can resolve such failures one asset at a time or do it in bulk for all failed duplicates in one go.
 
 ![Manage duplicate assets one at a time](assets/uploads-manage-duplicates.png)
 
@@ -64,7 +70,7 @@ By default, you cannot upload duplicate assets as the duplicate assets are marke
 >
 >You can upload assets to the DAM repository directly from within your [!DNL Creative Cloud] desktop applications. See how [[!DNL Assets Essentials] integrates with [!DNL Adobe Asset Link]](/help/integration.md).
 
-## Delete assets {#delete-assets}
+## Delete assets or folders {#delete-assets}
 
 Users can delete individual assets or folders that are no longer required. To delete an asset or a folder do one of the following:
 
@@ -72,6 +78,4 @@ Users can delete individual assets or folders that are no longer required. To de
 
   ![Options on asset thumbnail to manage an asset](assets/options-on-thumbnail.png)
 
-* Select an asset or a folder and use the option available in the toolbar.
-
-  ![Toolbar options when you select an asset](assets/toolbar-asset-selected.png)
+* Select an asset or a folder and click **[!UICONTROL Delete]** ![delete icon](assets/do-not-localize/delete-icon.png) in the toolbar.
