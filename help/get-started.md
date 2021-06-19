@@ -74,5 +74,8 @@ To provide feedback for documentation, click Edit this page ![edit the page](ass
 >[!MORELIKETHIS]
 >
 >* [Understand the the user interface](/help/navigate-view.md).
->* [Supported file types](/help/supported-file-formats.md).
 >* [Release notes and known issues](/help/release-notes.md).
+
+<!-- TBD: 
+>* [Supported file types](/help/supported-file-formats.md).
+-->
