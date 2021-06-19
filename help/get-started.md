@@ -15,7 +15,7 @@ Managing your digital assets using [!DNL Assets Essentials] is a matter of 3 sim
 
 To access [!DNL Assets Essentials], log in at [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). To receive access, contact your organization's administrator.
 
-In addition, more reference information that can be helpful is [understanding of the user interface](/help/navigate-view.md), [list of use cases](#use-cases), [supported file types](/help/supported-file-formats.md), and [known issues](/help/release-notes.md#known-issues).
+In addition, more reference information that can be helpful is [understanding of the user interface](/help/navigate-view.md), [list of use cases](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> and [known issues](/help/release-notes.md#known-issues).
 
 ## Receive access to [!DNL Assets Essentials] {#get-access}
 
