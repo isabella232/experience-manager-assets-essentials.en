@@ -16,8 +16,13 @@ The current release is the first public release of [!DNL Assets Essentials] that
 
 To know more about the solution, see the [introduction](introduction.md). To get started using the features, see [get started](/help/get-started.md).
 
+<!-- TBD: Verify if we have specific issues to be listed or not.
+
 ## Known issues {#known-issues}
 
-For now, the product is in beta and has the following known issues. As the product evolves, Adobe keeps addressing the issues. For now, if you come across any other issues, [provide feedback](#provide-feedback) to the team.
+Assets Essentials has the following known issues:
 
-* For now, you can download only individual assets and not folders. Assets Essentials displays `Unexpected end of JSON input` error.
+* You can download only individual assets and not folders. Assets Essentials displays `Unexpected end of JSON input` error.
+
+If you come across any other issues, [provide feedback](#provide-feedback) to the team.
+-->

@@ -19,7 +19,7 @@ The solution focuses on simple interface and efficient search and discovery of d
 
 For administration, it requires simpler configuration and administration that is, has a high time to value. Administrators get immediate access to the solution and can work with familiar functionality and user entitlements in [!DNL Adobe Admin Console].
 
-Managing your digital assets with Assets Essentials is as simple as the following 3 steps:
+Managing your digital assets with Assets Essentials is as simple as the following 3 steps. See [get started using [!DNL Assets Essentials]](/help/get-started.md).
 
 * **Step 1**: Upload and view assets.
 * **Step 2**: Search and download the required assets.
