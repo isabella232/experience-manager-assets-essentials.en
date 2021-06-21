@@ -1,6 +1,6 @@
 ---
 title: Manage metadata
-description: Manage metadata in [!DNL Assets Essentials]
+description: Manage metadata of assets in [!DNL Assets Essentials]
 role: Business Practitioner,Leader,Administrator,Architect,Developer
 contentOwner: AG
 ---
