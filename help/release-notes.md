@@ -16,13 +16,16 @@ The current release is the first public release of [!DNL Assets Essentials] that
 
 To know more about the solution, see the [introduction](introduction.md). To get started using the features, see [get started](/help/get-started.md).
 
-<!-- TBD: Verify if we have specific issues to be listed or not.
-
 ## Known issues {#known-issues}
 
-Assets Essentials has the following known issues:
+[!DNL Assets Essentials] has the following known issues for now.
 
-* You can download only individual assets and not folders. Assets Essentials displays `Unexpected end of JSON input` error.
+* For now, you cannot download multiple assets or folders. Workaround is to download files or folders one at a time.
+* Restoring a deleted asset from Trash may fail. Workaround is to click on the deleted asset, view its Renditions, and click on the Original asset to download. Re-upload this original asset manually.
+* Bulk operations on assets (copy, move, delete or restore) may fail if done in batches of more than 50 assets. Workaround is to select up to 50 assets in one go.
+* Renditions are updated when an asset is updated but the old renditions continue to display. Workaround is to refresh the browser.
+* After an operation, the changes may not display in the user interface immediately. Workaround is to refresh the browser.
+
+Adobe is working to fix these as soon as possible and will update this list as issues get fixed.
 
 If you come across any other issues, [provide feedback](#provide-feedback) to the team.
--->
