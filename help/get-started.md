@@ -7,13 +7,13 @@ role: Business Practitioner, Leader
 
 <!-- TBD: Make links for these steps. -->
 
-Managing your digital assets using [!DNL Assets Essentials] is a matter of 3 simple steps:
+Managing your digital assets using [!DNL Assets Essentials] requires only three simple steps:
 
 * **Step 1**: [Upload](/help/add-delete.md) and [view](/help/navigate-view.md) assets.
 * **Step 2**: [Search](/help/search.md) and [download](/help/manage-organize.md#download) assets.
 * **Step 3**: [Manage and organize](/help/manage-organize.md) assets.
 
-To access [!DNL Assets Essentials], log in at [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). To receive access, contact your organization's administrator.
+To use [!DNL Assets Essentials], log in at [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). To receive access, contact your organization's administrator.
 
 In addition, more reference information that can be helpful is [understanding of the user interface](/help/navigate-view.md), [list of use cases](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> and [known issues](/help/release-notes.md#known-issues).
 
@@ -65,7 +65,7 @@ The various digital asset management (DAM) tasks that you can accomplish using [
 
 ## ![feedback icon](assets/do-not-localize/feedback-icon.png) Provide product feedback {#provide-feedback}
 
-Adobe welcomes feedback about the solution. to provide feedback without even switching your working application, use the [!UICONTROL Feedback] option in the user interface. It also allows attaching files such as screenshots or video recording of an issue.
+Adobe welcomes feedback about the solution. To provide feedback without even switching your working application, use the [!UICONTROL Feedback] option in the user interface. It also allows attaching files such as screenshots or video recording of an issue.
 
   ![feedback option in the interface](assets/feedback-panel.png)
 
@@ -73,7 +73,7 @@ To provide feedback for documentation, click Edit this page ![edit the page](ass
 
 >[!MORELIKETHIS]
 >
->* [Understand the the user interface](/help/navigate-view.md).
+>* [Understand the user interface](/help/navigate-view.md).
 >* [Release notes and known issues](/help/release-notes.md).
 
 <!-- TBD: 
