@@ -27,17 +27,17 @@ To view the metadata of an asset, browse to the asset or search the asset, selec
 
 *Figure: To view an asset and its metadata, click **[!UICONTROL Details]** from toolbar or double-click on the asset.*
 
-The basic metadata such as title, description, upload date, and so on is available in the [!UICONTROL Basic] tab. The [!UICONTROL Advanced] tab contains more advanced metadata such as camera model, lens details, geotags, and so on. The [!UICONTROL Tags] tab contains auto-applied tags based on the contents of the image.
+The basic metadata such as title, description, and upload date is available in the [!UICONTROL Basic] tab. The [!UICONTROL Advanced] tab contains more advanced metadata such as camera model, lens details, and geotags. The [!UICONTROL Tags] tab contains auto-applied tags based on the contents of the image.
 
 ## Update metadata {#update-metadata}
 
-You can update a few metadata fields manually. This includes [!UICONTROL Title], [!UICONTROL Description], [!UICONTROL Author], and [!UICONTROL Keywords].
+You can update a few metadata fields manually. The fields includes [!UICONTROL Title], [!UICONTROL Description], [!UICONTROL Author], and [!UICONTROL Keywords].
 
 ## Tags {#tags}
 
 [!DNL Assets Essentials] uses artificial intelligence provided by [Adobe Sensei](https://www.adobe.com/sensei.html) to automatically apply relevant tags to all your uploaded assets. These tags, aptly named Smart Tags, increase the content velocity of your projects by helping you find relevant assets quickly. The smart tags are an example of metadata that is not contained in the image. 
 
-The smart tags are applied in near-real-time and are generated based on the contents of the image. When you upload an asset, the user interface displays [!UICONTROL Processing] on the asset thumbnail for some time. Once the processing is complete, you can [view the metadata](#view-metadata) and the smart tags.
+The smart tags are applied in near real time and are generated based on the contents of the image. When you upload an asset, the user interface displays [!UICONTROL Processing] on the asset thumbnail for some time. Once the processing is complete, you can [view the metadata](#view-metadata) and the smart tags.
 
 ![View Smart Tags of an asset](assets/metadata-view-tags.png)
 
@@ -47,9 +47,9 @@ Smart tags also contain a confidence score as a percentage. It indicates the con
 
 ## Add or update tags {#manually-tag}
 
-You may need to add more tags to your assets, in addition to the Smart Tags that are added automatically using the [!DNL Adobe Sensei] smart service. Open an asset for preview, click [!UICONTROL Tags], and type the desired keywords in the [!UICONTROL Keywords] field. Press Return to add the tag. [!DNL Assets Essentials] indexes the keyword in near real-time and your team can soon search the updated assets using the new keywords.
+You may add more tags to your assets, in addition to the Smart Tags that are added automatically using the [!DNL Adobe Sensei] smart service. Open an asset for preview, click [!UICONTROL Tags], and type the desired keywords in the [!UICONTROL Keywords] field. To add the tag, press Return. [!DNL Assets Essentials] indexes the keyword in near real time and your team can soon search the updated assets using the new keywords.
 
-You can also remove an existing tags from the [!UICONTROL Smart Tags] section.
+You can also remove tags from the [!UICONTROL Smart Tags] section that are automatically added by [!DNL Assets Essentials] to all the uploaded assets.
 
 <!-- TBD: Queries for PM and engg.
 

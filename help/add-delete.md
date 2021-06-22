@@ -38,13 +38,13 @@ To view a subset of assets based on the upload progress or status, use the filte
 
 *Figure: Filter the assets that you attempted to upload based on their upload status or upload progress.*
 
-Immediately after the assets are uploaded, Assets Essentials processes the assets to generate thumbnail and process metadata. For a large number of assets, the processing takes some time. If do not see a thumbnail and see a processing message on the placeholder thumbnail, check the folder again after a few minutes.
+Immediately after the assets are uploaded, Assets Essentials processes the assets to generate thumbnail and process metadata. For many assets, the processing takes some time. If do not see a thumbnail and see a processing message on the placeholder thumbnail, check the folder again after a few minutes.
 
 ![Processing upon upload](assets/upload-processing.png)
 
 ## Asset renditions {#renditions}
 
-Assets Essentials processes the uploaded assets in near real-time and for many supported file types, it generates renditions. Usually created for images, the renditions are resized versions of the uploaded image. You can download not just the asset but also the renditions to use an appropriate version. You can view all the renditions of an asset when you [preview an asset](/help/navigate-view.md#preview-assets).
+Assets Essentials processes the uploaded assets in near real time and for many supported file types, it generates renditions. Created for images, the renditions are resized versions of the uploaded image. You can download not just the asset but also the renditions to use an appropriate version. You can view all the renditions of an asset when you [preview an asset](/help/navigate-view.md#preview-assets).
 
 ![Renditions](assets/renditions-view-download.png)
 
@@ -56,7 +56,7 @@ If upload of a supported asset fails for some reason, click **[!UICONTROL Retry]
 
 *Figure: Retry if a supported file fails to upload for some reason.*
 
-If you attempt to upload duplicate assets, those are not uploaded without a confirmation from your side. The duplicate assets are marked as failed uploads. To resolve, you can simply create a version, delete and replace the existing assets, or create a duplicate copy by renaming the asset. You can resolve such failures one asset at a time or do it in bulk for all failed duplicates in one go.
+If you attempt to upload duplicate assets, the assets are not uploaded until you explicitly confirm the upload. At first, the duplicate assets are marked as failed uploads. To resolve, you can simply create a version, delete and replace the existing assets, or create a duplicate copy by renaming the asset. You can resolve such failures one asset at a time or do it in bulk for all failed duplicates in one go.
 
 ![Manage duplicate assets one at a time](assets/uploads-manage-duplicates.png)
 

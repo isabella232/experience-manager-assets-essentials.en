@@ -41,22 +41,22 @@ You can view the same options on assets thumbnails.
 
 ## Download and distribute assets {#download}
 
-You can select one or more assets or folders or a combination of both, and download the selection to your local file system. You can edit and re-upload the assets or distribute the assets outside [!DNL Assets Essentials]. You can also [download the renditions](/help/add-delete.md#renditions) of an asset.
+You can select one or more assets or folders or a combination of both, and download the selection to your local file system. You can edit the assets and upload again or distribute the assets outside [!DNL Assets Essentials]. You can also [download the renditions](/help/add-delete.md#renditions) of an asset.
 
 ## Asset versioning {#versions-of-assets}
 
 <!-- 
 TBD: query for engineering: How many versions are maintained. What happens when we reach that limit? Are old versions automatically removed? -->
 
-[!DNL Assets Essentials] versions the assets when the assets are uploaded again that is updated or are edited. You can view version history, past versions, and can restore a past version of assets as the latest version, that is revert to a previous version if needed. Asset versions are created in the following scenarios:
+[!DNL Assets Essentials] versions the assets when the assets are uploaded again that is updated or are edited. You can view version history, past versions, and can restore a past version of assets as the latest version, that is reverted to a previous version if needed. Asset versions are created in the following scenarios:
 
 * Upload a new asset with the same filename as an existing asset and in the same folder as the existing asset. [!DNL Assets Essentials] prompts to either overwrite the previous asset or save the new asset as a version. See [upload duplicate assets](/help/add-delete.md#resolve-upload-fails).
 
   ![Create versions when uploading](assets/uploads-manage-duplicates.png)
 
-  *Figure: When uploading an asset by the name of an existing asset, you can create a new version of the asset.*
+  *Figure: When uploading an asset named the same as an existing asset, you can create a version of the asset.*
 
-* Edit an image and click **[!UICONTROL Save as Version]** to save the edited image. See [edit images](/help/edit-images.md).
+* Edit an image and click **[!UICONTROL Save as Version]**. See [edit images](/help/edit-images.md).
 
   ![Save edited image as a version](assets/edit-image2.png)
 

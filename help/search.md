@@ -36,9 +36,9 @@ You can sort the searched assets in increasing or decreasing order of `Name`, `R
 
 ## Saved searches {#saved-search}
 
-Search functionality is quite easy to use in Assets Essentials. From within the search box, you can not only just type a keyword and press return to see the results, you can also quickly search again for your recently searched keywords in a single click.
+Search functionality is quite easy to use in [!DNL Assets Essentials]. From within the search box, you can not only just type a keyword and press return to see the results, you can also quickly search again for your recently searched keywords in a single click.
 
-You can also filter the search results based on specific criteria around metadata and type of assets. For frequently used filters, to improve the search experience, Assets Essentials lets you save the search parameters. You can then select the saved search to search and apply the filter with just a single click as well.
+You can also filter the search results based on specific criteria around metadata and type of assets. For frequently used filters, to improve the search experience, [!DNL Assets Essentials] lets you save the search parameters. You can then select the saved search to search and apply the filter with just a single click as well.
 
 To create a saved search, search for some asset, apply one or more filters, and click [!UICONTROL Save Search] in the [!UICONTROL Filters] panel.
 
