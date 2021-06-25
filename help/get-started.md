@@ -69,7 +69,10 @@ Adobe welcomes feedback about the solution. To provide feedback without even swi
 
   ![feedback option in the interface](assets/feedback-panel.png)
 
-To provide feedback for documentation, click Edit this page ![edit the page](assets/do-not-localize/edit-page.png) or Log an issue ![create a GitHub issue](assets/do-not-localize/github-issue.png) from the right margin. Make the content updates and submit a GitHub pull request or create an issue or ticket in GitHub.
+To provide feedback for documentation, click [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) from the right sidebar. You can do one of the following: 
+
+* Make the content updates and submit a GitHub pull request.
+* Create an issue or ticket in GitHub. Retain the automatically populated article name when creating an issue.
 
 >[!MORELIKETHIS]
 >
