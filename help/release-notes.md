@@ -7,25 +7,19 @@ contentOwner: AG
 
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release is the first public release of [!DNL Assets Essentials] that is available on June 21, 2021. Assets Essentials offers lightweight asset management capabilities and its first version supports the following major features:
+The current release is the first public release of [!DNL Assets Essentials] that was made available on June 21, 2021. [!DNL Assets Essentials] offers lightweight asset management capabilities and its first version supports the following major features and CRUD (create, read, update, and delete) operations:
 
-* Upload and add assets, including nested folders. Preview the assets.
+* Upload and add assets, including nested folders. Preview the assets and versions.
 * Full-text search, nuanced search filters, and saved searches for rapid asset discovery.
-* Basic asset management operations like update, version, download, and manage metadata.
-* Integration with [!DNL Adobe Journey Optimizer].
+* Basic asset management operations like update, delete, download, and manage metadata.
+* Integration with [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
 
-To know more about the solution, see the [introduction](introduction.md). To get started using the features, see [get started](/help/get-started.md).
+Currently, [!DNL Assets Essentials] is available to [[!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer.html) customers. 
+
+To know more about the solution, see the [introduction to [!DNL Assets Essentials]](introduction.md). To start using the features, see [get started](/help/get-started.md).
 
 ## Known issues {#known-issues}
 
-[!DNL Assets Essentials] has the following known issues for now.
+At this time, there are no known issues with [!DNL Assets Essentials].
 
-* For now, you cannot download multiple assets or folders. Workaround is to download files or folders one at a time.
-* Restoring a deleted asset from Trash may fail. Workaround is to click on the deleted asset, view its Renditions, and click on the Original asset to download. Upload the original asset manually.
-* Bulk operations on assets (copy, move, delete, or restore) may fail if done in batches of more than 50 assets. Workaround is to select up to 50 assets in one go.
-* Renditions are updated when an asset is updated but the old renditions continue to display. Workaround is to refresh the browser.
-* After an operation, the changes may not display in the user interface immediately. Workaround is to refresh the browser.
-
-Adobe is working to fix the issues as soon as possible and then update the list.
-
-If you come across any other issues, [provide feedback](#provide-feedback) to the team.
+If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
