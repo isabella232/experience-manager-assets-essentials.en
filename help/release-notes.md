@@ -22,4 +22,8 @@ To know more about the solution, see the [introduction to [!DNL Assets Essential
 
 At this time, there are no known issues with [!DNL Assets Essentials].
 
+<!--
+* Use assets that do not have whitespace in the file names. The replies to comments do not work for such assets.
+-->
+
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.

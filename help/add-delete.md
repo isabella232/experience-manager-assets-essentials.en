@@ -26,6 +26,10 @@ Once all files are queued, click **[!UICONTROL Upload]**.
 
 *Figure: Before you upload the selected assets, you can add or remove assets from the queue.*
 
+>[!CAUTION]
+>
+>Use assets that do not have whitespace in the file names. The replies to comments do not work for such assets.
+
 ## View upload progress and status {#upload-progress}
 
 When you upload many assets or nested folders to [!DNL Assets Essentials], some assets can fail to upload for various reasons such as duplicate asset and network issues.
@@ -38,13 +42,13 @@ To view a subset of assets based on the upload progress or status, use the filte
 
 *Figure: Filter the assets that you attempted to upload based on their upload status or upload progress.*
 
-Immediately after the assets are uploaded, Assets Essentials processes the assets to generate thumbnail and process metadata. For many assets, the processing takes some time. If do not see a thumbnail and see a processing message on the placeholder thumbnail, check the folder again after a few minutes.
+Immediately after the assets are uploaded, [!DNL Assets Essentials] processes the assets to generate thumbnail and process metadata. For many assets, the processing takes some time. If do not see a thumbnail and see a processing message on the placeholder thumbnail, check the folder again after a few minutes.
 
 ![Processing upon upload](assets/upload-processing.png)
 
 ## Asset renditions {#renditions}
 
-Assets Essentials processes the uploaded assets in near real time and for many supported file types, it generates renditions. Created for images, the renditions are resized versions of the uploaded image. You can download not just the asset but also the renditions to use an appropriate version. You can view all the renditions of an asset when you [preview an asset](/help/navigate-view.md#preview-assets).
+[!DNL Assets Essentials] processes the uploaded assets in near real time and for many supported file types, it generates renditions. Created for images, the renditions are resized versions of the uploaded image. You can download not just the asset but also the renditions to use an appropriate version. You can view all the renditions of an asset when you [preview an asset](/help/navigate-view.md#preview-assets).
 
 ![Renditions](assets/renditions-view-download.png)
 
