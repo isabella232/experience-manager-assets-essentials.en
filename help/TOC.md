@@ -14,6 +14,7 @@ role: Business Practitioner, Leader
 
 + [Solution overview](introduction.md)
 + [Release Notes](release-notes.md)
++ [Deploy and add users](deploy-administer.md)
 + [Get started using [!DNL Assets Essentials]](get-started.md)
 + [View assets](navigate-view.md)
 + [Upload and add assets](add-delete.md)
