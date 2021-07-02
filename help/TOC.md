@@ -7,15 +7,19 @@ breadcrumb-title: Assets Essentials Guide
 user-guide-description: Learn how to use Adobe Experience Manager Assets Essentials.
 feature-set: Experience Manager Assets,Experience Manager
 feature: Asset Management
-role: Business Practitioner, Administrator
+role: Business Practitioner, Leader
 ---
 
-# Assets Essentials Guide {#help}
+# [!DNL Assets Essentials] Guide {#help}
 
 + [Solution overview](introduction.md)
-+ [Get started with use cases](get-started.md)
-+ [Understand interface and navigation](understand-interface.md)
-+ [Add assets](add-assets.md)
-+ [Search assets](search-assets.md)
++ [Release Notes](release-notes.md)
++ [Deploy and add users](deploy-administer.md)
++ [Get started using [!DNL Assets Essentials]](get-started.md)
++ [View assets](navigate-view.md)
++ [Upload and add assets](add-delete.md)
++ [Search and discover assets](search.md)
++ [Asset management tasks](manage-organize.md)
 + [Edit images](edit-images.md)
++ [Manage asset metadata](metadata.md)
 + [Integration with other solutions](integration.md)
