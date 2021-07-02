@@ -42,15 +42,19 @@ To view a subset of assets based on the upload progress or status, use the filte
 
 *Figure: Filter the assets that you attempted to upload based on their upload status or upload progress.*
 
-Immediately after the assets are uploaded, [!DNL Assets Essentials] processes the assets to generate thumbnail and process metadata. For many assets, the processing takes some time. If do not see a thumbnail and see a processing message on the placeholder thumbnail, check the folder again after a few minutes.
+Immediately after the assets are uploaded, [!DNL Assets Essentials] processes the assets to generate thumbnail and process metadata. For many assets, the processing takes some time. If do not see a thumbnail and see a processing message on the placeholder thumbnail, check the folder again after a few minutes. During processing, amongst other things, [!DNL Assets Essentials] generates the renditions, adds smart tags, and indexes the asset details for search.
 
-![Processing upon upload](assets/upload-processing.png)
+![Assets are processes upon upload and the tile displays processing](assets/upload-processing.png)
+
+*Figure: Uploaded assets display processing on the tile these are processed.*
 
 ## Asset renditions {#renditions}
 
 [!DNL Assets Essentials] processes the uploaded assets in near real time and for many supported file types, it generates renditions. Created for images, the renditions are resized versions of the uploaded image. You can download not just the asset but also the renditions to use an appropriate version. You can view all the renditions of an asset when you [preview an asset](/help/navigate-view.md#preview-assets).
 
 ![Renditions](assets/renditions-view-download.png)
+
+*Figure: View and download the renditions.*
 
 ## Manage failed uploads {#resolve-upload-fails}
 
@@ -81,5 +85,7 @@ Users can delete individual assets or folders that are no longer required. To de
 * Use the option available on an asset's or a folder's thumbnail.
 
   ![Options on asset thumbnail to manage an asset](assets/options-on-thumbnail.png)
+
+  *Figure: Actions for files and folders are available on the asset or folder tile.*
 
 * Select an asset or a folder and click **[!UICONTROL Delete]** ![delete icon](assets/do-not-localize/delete-icon.png) in the toolbar.

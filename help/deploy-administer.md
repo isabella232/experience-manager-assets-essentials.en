@@ -24,11 +24,15 @@ After provisioning, [!DNL Assets Essentials] entitlement is added to your Adobe 
 
    ![[!DNL Assets Essentials] card in [!DNL Admin Console]](assets/essentials-in-admin-console.png)
 
+   *Figure: [!DNL Assets Essentials] card in [!DNL Admin Console].*
+
 1. Add yourself as an administrator to the `AEM Assets Essentials - Cloud Manager` product in the [!DNL Cloud Manager]. Instead of yourself, you can add another member of your organization or you can add more than one administrator.
 
 1. Click ![add icon](assets/do-not-localize/add-icon.svg) to [!UICONTROL Select product profiles], and then select [!UICONTROL Deployment Manager - Assets Essentials] as the **[!UICONTROL product profile]**. The user added in this step receives an email from Adobe with access to [!DNL Cloud Manager] and can do the deployment.
 
    ![Add an administrator and select a product profile in [!DNL Admin Console]](assets/adminconsole-user1.png)
+   
+   *Figure: Add an administrator and select a product profile in [!DNL Admin Console].*
 
 1. To access [!DNL Cloud Manager], click the link in the email with access to [!DNL Cloud Manager]. Alternatively, access `https://experience.adobe.com/#/cloud-manager/` in your browser.
 
@@ -42,9 +46,13 @@ After provisioning, [!DNL Assets Essentials] entitlement is added to your Adobe 
 
    ![Add an environment in [!DNL Cloud Manager]](assets/cloudmanager-add-environment-for-essentials.png)
 
+   *Figure: Add an environment in [!DNL Cloud Manager] to start using [!DNL Assets Essentials].*
+
 1. When the environment is successfully created, you can access the [!DNL Admin Console] and add your organization's users to [!DNL Assets Essentials] solution. Click ![options icon](assets/do-not-localize/options-ellipses-icon.png) and select the **[!UICONTROL Manage Access]** option.
 
    ![Ready environment in [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+
+   *Figure: An environment in [!DNL Cloud Manager] that is ready to use.*
 
 ## User management {#add-users-to-essentials}
 
@@ -59,9 +67,13 @@ In [!DNL Admin Console], these two access types are represented by two [!UICONTR
 
    ![Two profiles for two types of users](assets/adminconsole-user-types.png)
 
+   *Figure: Two profiles are available to add the two types of users.*
+
 1. To add a user to a group, click the group, select **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. When you add a user, the user receives an email invitation to get started. You can turn off the email invitations in the product profile settings in [!DNL Admin Console].
 
    ![Add a user to [!DNL Assets Essentials]](assets/adminconsole-add-user.png)
+
+   *Figure: Add a user to [!DNL Assets Essentials] from [!DNL Admin Console].*
 
 1. To remove a user from a group, click the group, select an existing user, and select **[!UICONTROL Remove User]**.
 
@@ -75,11 +87,15 @@ After provisioning, administrators deploy [!DNL Assets Essentials] only once. Af
 
 1. When users report issues, check the service status of [!DNL Assets Essentials] in the **[!UICONTROL Program Overview]** interface. During the normal working of the solution, the status is `Running`. If [!DNL Cloud Manager] displays any other status, create a support ticket in the [!DNL Admin Console] support section.
 
-   ![Running status of [!DNL Assets Essentials] in [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+   ![The status of [!DNL Assets Essentials] in [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+
+   *Figure: The normal status of [!DNL Assets Essentials] in [!DNL Cloud Manager] is `Running`.*
 
 1. To download the recent access logs, click ![options icon](assets/do-not-localize/options-ellipses-icon.png), select **[!UICONTROL Download Logs]**, and follow the on-screen instructions. You can audit the HTTPS access requests using the logs.
 
-   ![Download logs option](assets/cloudmanager-download-logs.png)
+   ![ Option to download the access logs](assets/cloudmanager-download-logs.png)
+
+   *Figure: Option to download the access logs.*
 
 >[!MORELIKETHIS]
 >
