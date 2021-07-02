@@ -6,7 +6,7 @@ role: Administrator
 
 # Deploy [!DNL Assets Essentials] and add users {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. The customer also has access to [!DNL Experience Manager Cloud Manager] as a deployment tool and to [!DNL Admin Console] for managing user entitlements to the solution.
+[!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. The customers also have access to [!DNL Experience Manager Cloud Manager] as a deployment tool and to [!DNL Admin Console] to manage user entitlements to [!DNL Assets Essentials] solution.
 
 Administrators perform the following tasks:
 
@@ -16,9 +16,7 @@ Administrators perform the following tasks:
 
 ## Deploy [!DNL Assets Essentials] {#deploy-essentials}
 
-After provisioning, [!DNL Assets Essentials] entitlement is added to your organization in [!DNL Admin Console], and an organization's administrator needs to deploy it to make it available to users. The administrator does a one-time deployment using [!DNL Cloud Manager] user interface. After the initial deployment, Adobe does the service maintenance and updates. To deploy, follow these steps:
-
-1. After the solution has been provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started.
+After provisioning, [!DNL Assets Essentials] entitlement is added to your organization in [!DNL Admin Console]. Before the solution is available to the user, an organization administrator must deploy it. The administrator does a one-time deployment using [!DNL Cloud Manager] user interface. After the initial deployment, Adobe does the service maintenance and updates. After the solution is provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started. To deploy, follow these steps:
 
 1. From the link in the email, access and login to [Admin Console](https://adminconsole.adobe.com). If you have administrator access to more than one organization account, then select the appropriate organization or switch to it using the switcher in the top bar. The product card for [!DNL Assets Essentials] is visible in the [!DNL Admin Console].
 
