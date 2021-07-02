@@ -6,7 +6,7 @@ role: Administrator
 
 # Deploy [!DNL Assets Essentials] and add users {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization (Adobe Org). The customer also has access to [!DNL Experience Manager Cloud Manager] as a deployment tool and to [!DNL Admin Console] as a user management tool.
+[!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. The customer also has access to [!DNL Experience Manager Cloud Manager] as a deployment tool and to [!DNL Admin Console] for managing user entitlements to the solution.
 
 Administrators perform the following tasks:
 
@@ -16,9 +16,9 @@ Administrators perform the following tasks:
 
 ## Deploy [!DNL Assets Essentials] {#deploy-essentials}
 
-After provisioning, [!DNL Assets Essentials] entitlement is added to your Adobe Org, and an organization's administrator deploys it. Organization's administrators do a one-time deployment using [!DNL Cloud Manager] user interface. After the initial deployment, Adobe does the service maintenance and updates. To deploy, follow these steps:
+After provisioning, [!DNL Assets Essentials] entitlement is added to your organization in [!DNL Admin Console], and an organization's administrator needs to deploy it to make it available to users. The administrator does a one-time deployment using [!DNL Cloud Manager] user interface. After the initial deployment, Adobe does the service maintenance and updates. To deploy, follow these steps:
 
-1. Ensure that the administrator receives an email from Adobe. The email contains a welcome message and a link to get started.
+1. After the solution has been provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started.
 
 1. From the link in the email, access and login to [Admin Console](https://adminconsole.adobe.com). If you have administrator access to more than one organization account, then select the appropriate organization or switch to it using the switcher in the top bar. The product card for [!DNL Assets Essentials] is visible in the [!DNL Admin Console].
 
@@ -26,7 +26,7 @@ After provisioning, [!DNL Assets Essentials] entitlement is added to your Adobe 
 
    *Figure: [!DNL Assets Essentials] card in [!DNL Admin Console].*
 
-1. Add yourself as an administrator to the `AEM Assets Essentials - Cloud Manager` product in the [!DNL Cloud Manager]. Instead of yourself, you can add another member of your organization or you can add more than one administrator.
+1. Add yourself as an administrator to the `AEM Assets Essentials - Cloud Manager` product profile in the [!DNL Admin Console]. Instead of yourself, you can add another member of your organization or you can add more than one administrator.
 
 1. Click ![add icon](assets/do-not-localize/add-icon.svg) to [!UICONTROL Select product profiles], and then select [!UICONTROL Deployment Manager - Assets Essentials] as the **[!UICONTROL product profile]**. The user added in this step receives an email from Adobe with access to [!DNL Cloud Manager] and can do the deployment.
 
@@ -34,7 +34,7 @@ After provisioning, [!DNL Assets Essentials] entitlement is added to your Adobe 
    
    *Figure: Add an administrator and select a product profile in [!DNL Admin Console].*
 
-1. To access [!DNL Cloud Manager], click the link in the email with access to [!DNL Cloud Manager]. Alternatively, access `https://experience.adobe.com/#/cloud-manager/` in your browser.
+1. To access [!DNL Cloud Manager], click the link in the email with access to [!DNL Cloud Manager]. Alternatively, access [https://experience.adobe.com/#/cloud-manager/](https://experience.adobe.com/#/cloud-manager/) in your browser.
 
 1. In the Cloud Manager user interface, click **[!UICONTROL Add Program]** from the upper-right corner.
 
@@ -48,7 +48,7 @@ After provisioning, [!DNL Assets Essentials] entitlement is added to your Adobe 
 
    *Figure: Add an environment in [!DNL Cloud Manager] to start using [!DNL Assets Essentials].*
 
-1. When the environment is successfully created, you can access the [!DNL Admin Console] and add your organization's users to [!DNL Assets Essentials] solution. Click ![options icon](assets/do-not-localize/options-ellipses-icon.png) and select the **[!UICONTROL Manage Access]** option.
+1. After several minutes, when the environment is successfully created, you can access the [!DNL Admin Console] and add your organization's users to [!DNL Assets Essentials] solution. Click ![options icon](assets/do-not-localize/options-ellipses-icon.png) and select the **[!UICONTROL Manage Access]** option.
 
    ![Ready environment in [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
 
