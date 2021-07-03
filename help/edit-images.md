@@ -1,7 +1,7 @@
 ---
 title: Edit images
 description: Edit images using [!DNL Adobe Photoshop Express] powered options and save updated images as versions.
-role: Business Practitioner
+role: User
 ---
 
 # Edit images in [!DNL Assets Essentials] {#edit-images}

@@ -1,7 +1,7 @@
 ---
 title: Search and discover assets in [!DNL Assets Essentials]
 description: Search and discover assets in [!DNL Assets Essentials].
-role: Business Practitioner
+role: User
 ---
 
 # Search assets in [!DNL Assets Essentials] {#search-assets}

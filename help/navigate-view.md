@@ -1,7 +1,7 @@
 ---
 title: [!DNL Assets Essentials] user interface
 description: Understand user interface of and navigation in [!DNL Assets Essentials].
-role: Business Practitioner
+role: User
 ---
 
 # Navigate to files and folders and view assets {#view-assets-and-details}
