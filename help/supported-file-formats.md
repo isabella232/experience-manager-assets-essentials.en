@@ -28,16 +28,16 @@ The various file types have different degrees of support for the use cases and f
 <!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
-| Asset type    | Browse   | Copy | Upload   | Create   | Delete   | Details  | Image zoom | Recently Viewed |
-|---------------|----------|------|----------|----------|----------|----------|------------|-----------------|
-| Raster images | &#10003; |      | &#10003; | &minus;  | &#10003; | &#10003; | &#10003;   | &#10003;        |
-| Folders       | &#10003; |      | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
-| Videos        | &#10003; |      | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
-| CC Libraries  | &#10003; |      | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
-| PDF           | &#10003; |      | &#10003; | &minus;  | &#10003; | &#10003; | &minus;    | &#10003;        |
-| PSD           | &#10003; |      | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
-| AI            | &#10003; |      | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
-| INDD          | &#10003; |      | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
+| Asset type    | Browse   | Copy     | Upload   | Create   | Delete   | Details  | Image zoom | Recently Viewed |
+|---------------|----------|----------|----------|----------|----------|----------|------------|-----------------|
+| Raster images | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003; | &#10003;   | &#10003;        |
+| Folders       | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
+| Videos        | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
+| CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
+| PDF           | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003; | &minus;    | &#10003;        |
+| PSD           | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
+| AI            | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
+| INDD          | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
 
 ## Search, use, and edit assets {#support-to-search-use-edit}
 
