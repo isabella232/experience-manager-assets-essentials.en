@@ -7,7 +7,7 @@ breadcrumb-title: Assets Essentials Guide
 user-guide-description: Learn how to use Adobe Experience Manager Assets Essentials.
 feature-set: Experience Manager Assets,Experience Manager
 feature: Asset Management
-role: User, Leader
+role: User,Leader
 ---
 
 # [!DNL Assets Essentials] Guide {#help}

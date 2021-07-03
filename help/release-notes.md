@@ -1,7 +1,7 @@
 ---
 title: Release Notes
 description: Release Notes and known issues of [!DNL Assets Essentials]
-role: User,Leader,Administrator,Architect,Developer
+role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 ---
 

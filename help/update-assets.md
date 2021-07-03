@@ -1,7 +1,7 @@
 ---
 title: Update or modify assets
 description: Update assets that exist in the repository
-role: User,Leader,Administrator,Architect,Developer
+role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 ---
 
