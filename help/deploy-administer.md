@@ -1,7 +1,7 @@
 ---
 title: Deploy and manage users
 description: Administration use cases such as deployment and user management in [!DNL Assets Essentials].
-role: Administrator
+role: Admin
 ---
 
 # Deploy [!DNL Assets Essentials] and add users {#administer}

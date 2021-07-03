@@ -1,7 +1,7 @@
 ---
 title: Supported file formats
 description: Supported file formats for the various use cases of [!DNL Assets Essentials]
-role: User,Leader,Administrator,Architect,Developer
+role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 ---
 
