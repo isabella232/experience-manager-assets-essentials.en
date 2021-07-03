@@ -1,7 +1,7 @@
 ---
 title: 
 description: 
-role: Business Practitioner
+role: User
 ---
 
 # Collaborate with your team on the digital assets {#collaborate}

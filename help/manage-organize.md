@@ -1,7 +1,7 @@
 ---
 title: Manage your digital assets
 description: Move, delete, copy, rename, update, and version your assets in [!DNL Assets Essentials].
-role: Business Practitioner,Leader
+role: User,Leader
 contentOwner: AG
 ---
 
