@@ -15,33 +15,32 @@ contentOwner: AG
 
 The various file types have different degrees of support for the use cases and features as described below. Use the legend to understand the support level.
 
-| Support Level | Description             |
-|---------------|-------------------------|
-| &#10003;      | Supported               |
-| &#42;         | Supported conditionally |
-| &minus;       | Not applicable          |
-
-* Other asset management tasks: 
+| Support Level     | Description             |
+|-------------------|-------------------------|
+| &#10003;          | Supported               |
+| &#10003; &Dagger; | Supported conditionally |
+| &minus;           | Not applicable          |
 
 ## Add, upload, and view assets {#support-to-upload-view}
 
 <!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
-| Asset type    | Browse   | Copy     | Upload   | Create   | Delete   | Details  | Image zoom | Recently Viewed |
-|---------------|----------|----------|----------|----------|----------|----------|------------|-----------------|
-| Raster images | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003; | &#10003;   | &#10003;        |
-| Folders       | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
-| Videos        | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
+| Asset type        | [Browse](/help/navigate-view.md)   | Copy     | [Upload](/help/add-delete.md)   | Create   | [Delete](/help/add-delete.md#delete-assets)   | Details           | Image zoom | [Recently Viewed](/help/navigate-view.md) |
+|-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
+| Raster images     | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003;          | &#10003;   | &#10003;        |
+| Folders           | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003;          | &minus;    | &minus;         |
+| MP4 videos        | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003; &Dagger; | &minus;    | &#10003;        |
+| PDF               | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003;          | &minus;    | &#10003;        |
+| PSD, AI, and INDD | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003; &Dagger; | &minus;    | &#10003;        |
+
+<!-- Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
-| PDF           | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003; | &minus;    | &#10003;        |
-| PSD           | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
-| AI            | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
-| INDD          | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#42;    | &minus;    | &#10003;        |
+-->
 
 ## Search, use, and edit assets {#support-to-search-use-edit}
 
-| Asset type    | Download | Drag and drop | Image editor | Search   | Smart Tags | Rename   | Versions |
+| Asset type    | [Download](/help/manage-organize.md#download) | Drag and drop | [Image editor](/help/edit-images.md) | [Search](/help/search.md)   | [Smart Tags](/help/metadata.md#tags) | [Rename](/help/manage-organize.md)   | [Versions](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Raster images | &#10003; | &#10003;      | &#10003;     | &#10003; | &#10003;   | &#10003; | &#10003; |
 | Folders       | &#10003; | &#10003;      | &minus;      | &#10003; | &minus;    | &#10003; | &minus;  |
@@ -67,18 +66,20 @@ The various file types have different degrees of support for the use cases and f
 
 ## Other asset management tasks {#support-to-manage-assets}
 
-| Asset type    | Metadata | Renditions | Trash    | Copy     | Move     | [!DNL Adobe Asset Link] check-in |
-|---------------|----------|------------|----------|----------|----------|----------------------------------|
-| Raster images | &#42;    | &#10003;   | &#10003; | &#10003; | &#10003; | &#10003;                         |
-| Folders       | &#42;    | &minus;    | &#10003; | &#10003; | &#10003; | &minus;                          |
-| Videos        | &#42;    | &minus;    | &#10003; | &#10003; | &#10003; | &minus;                          |
-| CC Libraries  | &#42;    | &minus;    | &minus;  | &minus;  | &minus;  | &minus;                          |
-| PDF           | &#42;    | &minus;    | &#10003; | &#10003; | &#10003; | &minus;                          |
-| PSD           | &#42;    | &minus;    | &#10003; | &#10003; | &#10003; | &minus;                          |
-| AI            | &#42;    | &minus;    | &#10003; | &#10003; | &#10003; | &minus;                          |
-| INDD          | &#42;    | &minus;    | &#10003; | &#10003; | &#10003; | &minus;                          |
+| Asset type    | [Metadata](/help/metadata.md)          | [Renditions](/help/add-delete.md#renditions) | [Trash](/help/add-delete.md#delete-assets)    | Copy     | Move     |
+|---------------|-------------------|------------|----------|----------|----------|
+| Raster images | &#10003; | &#10003;   | &#10003; | &#10003; | &#10003; |
+| Folders       | &#10003; | &minus;    | &#10003; | &#10003; | &#10003; |
+| Videos        | &#10003; | &minus;    | &#10003; | &#10003; | &#10003; |
+| CC Libraries  | &#10003; | &minus;    | &minus;  | &minus;  | &minus;  |
+| PDF           | &#10003; | &minus;    | &#10003; | &#10003; | &#10003; |
+| PSD           | &#10003; | &minus;    | &#10003; | &#10003; | &#10003; |
+| AI            | &#10003; | &minus;    | &#10003; | &#10003; | &#10003; |
+| INDD          | &#10003; | &minus;    | &#10003; | &#10003; | &#10003; |
 
-<!-- TBD: Saving template table separately.
+Users of [!DNL Adobe Asset Link] can check-in the raster images into the [!DNL Assets Essentials] repository from the supported [!DNL Adobe Creative Cloud] desktop applications.
+
+<!-- TBD: Saving the template table separately for later use.
 | Asset type    | Features |
 |---------------|----------|
 | Raster images |          |
