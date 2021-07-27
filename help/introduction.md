@@ -20,7 +20,7 @@ For administrators, it offers simpler configuration and administration that lead
 For users, managing your digital assets with [!DNL Assets Essentials] is as simple as the following 3 steps. See [get started using [!DNL Assets Essentials]](/help/get-started.md).
 
 * **Step 1**: Upload and view assets.
-* **Step 2**: Search and download the required assets.
+* **Step 2**: Search and download assets.
 * **Step 3**: Manage and organize the assets. 
 
 >[!MORELIKETHIS]

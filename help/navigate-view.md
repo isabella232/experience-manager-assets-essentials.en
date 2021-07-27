@@ -34,11 +34,15 @@ When you log into [!DNL Assets Essentials], you see the following interface.
 
 ## Browse and view assets and folders {#browse-repository}
 
-You can browse to the required files or folders from the main user interface or from the left sidebar. When browsing, you can use the interface to view asset thumbnails to visually browse the repository or view asset details to quickly find the asset you want. The options available in the left sidebar are:
+You can browse the folders from the main user interface or from the left sidebar. When browsing, you can use the interface to view asset thumbnails to visually browse the repository or view asset details to quickly find the asset you want. The options available in the left sidebar are:
 
-* **Assets**: List of all folders and assets in a tree view, that you have access to.
-* **Recently Viewed**: List of assets that you previewed recently. [!DNL Assets Essentials] displays only the assets that you preview. It does not display here the assets that you scroll past when browsing the repository files or folders.
+* **Assets**: List of all folders in a tree view, that you have access to.
+* **Recently Viewed**: List of assets that you previewed recently. [!DNL Assets Essentials] displays only the assets that you preview. It does not display the assets that you scroll past when browsing the repository files or folders.
+* **Trash**: 
+
+<!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
+-->
 
 <!-- TBD: My Work Space shows task inbox and it is not visible on AEM Cloud Demos as of now. It is the source of truth server hence not documenting My Work Space option for now.
 -->
