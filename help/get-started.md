@@ -11,9 +11,9 @@ Managing your digital assets using [!DNL Assets Essentials] requires only three 
 
 * **Step 1**: [Upload](/help/add-delete.md) and [view](/help/navigate-view.md) assets.
 * **Step 2**: [Search](/help/search.md) and [download](/help/manage-organize.md#download) assets.
-* **Step 3**: [Manage and organize](/help/manage-organize.md) assets.
+* **Step 3**: [Manage and organize](/help/manage-organize.md) the assets.
 
-To use [!DNL Assets Essentials], log in at [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). To receive access, contact your organization's administrator.
+To use [!DNL Assets Essentials], log in at [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). When logging in, select `Company or School Account`. To receive access, contact your organization's administrator.
 
 In addition, more reference information that can be helpful is [understanding of the user interface](/help/navigate-view.md), [list of use cases](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> and [known issues](/help/release-notes.md#known-issues).
 
@@ -50,11 +50,11 @@ The various digital asset management (DAM) tasks that you can accomplish using [
 | User tasks | Functionality and how-to information |
 |-----|------|
 | How do I add an asset? | <ul> <li> [Upload assets](/help/add-delete.md) </li> <li> [Renditions](/help/add-delete.md#renditions) </li> </ul> |
-| How do I update assets or related information? | <ul> <li>Change an existing asset</li> <li>[Create versions](/help/manage-organize.md#create-versions) and [view versions](/help/navigate-view.md#view-versions)</li> <li>[Edit images](/help/edit-images.md)</li> </ul> |
-| How do I discover assets? | <ul> <li>[Browse repository](/help/navigate-view.md#view-assets-and-details) </li> <li> [Preview asset](/help/navigate-view.md#preview-assets) and [download assets](/help/manage-organize.md) </li> <li>[View detailed metadata](/help/metadata.md) </li> <li>[Search assets](/help/search.md)</li></ul> |
-| How do I edit assets in the repository? | <ul> <li>[In-browser edits using Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Crop for a social media profile](/help/edit-images.md#crop-straighten-images)</li> <li>[View and manage versions](/help/manage-organize.md#create-versions)</li> <li>Use [Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
-| How do I search for assets in the repository? | <ul> <li>[Search within a specific folder](/help/search.md)</li> <li>[Saved searches](/help/search.md)</li> <li>[Search for recently viewed assets](/help/search.md)</li> <li>[Full-text search](/help/search.md) |
-| How do I add new assets? | <ul> <li>[Upload new assets and folders](/help/add-delete.md#add-assets)</li> <li>[Monitor upload progress and manage uploads](/help/add-delete.md)</li> <li>[Resolve duplicates](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| How do I update assets or related information? | <ul> <li>Change an existing asset</li> <li>[Create versions](/help/manage-organize.md#create-versions) and [view versions](/help/manage-organize.md#view-versions)</li> <li>[Edit images](/help/edit-images.md)</li> </ul> |
+| How do I discover assets? | <ul> <li>[Browse repository](/help/navigate-view.md#view-assets-and-details) </li> <li> [Preview asset](/help/navigate-view.md#preview-assets) and [download assets](/help/manage-organize.md#download) </li> <li>[View detailed metadata](/help/metadata.md) </li> <li>[Search assets](/help/search.md)</li></ul> |
+| How do I edit assets in the repository? | <ul> <li>[In-browser edits using Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Crop for a social media profile](/help/edit-images.md#crop-straighten-images)</li> <li>[View and manage versions](/help/manage-organize.md#view-versions)</li> <li>Use [Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
+| How do I search for assets in the repository? | <ul> <li>[Search within a specific folder](/help/search.md#refine-search-results)</li> <li>[Saved searches](/help/search.md#saved-search)</li> <li>[Search for recently viewed assets](/help/search.md)</li> <li>[Full-text search](/help/search.md) |
+| How do I add new assets? | <ul> <li>[Upload new assets and folders](/help/add-delete.md#add-assets)</li> <li>[Monitor upload progress and manage uploads](/help/add-delete.md#upload-progress)</li> <li>[Resolve duplicates](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
 | Can [!DNL Assets Essentials] integrate with other solutions? | <ul> <li>[Use Asset Selector in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] for [!DNL Creative Cloud]](/help/integration.md)</li> <li>Integration with [!DNL Creative Cloud Team] Libraries</li> </ul> |
 
 <!--TBD: Merge in above table when these use cases are documented/available.
