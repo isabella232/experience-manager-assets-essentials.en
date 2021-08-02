@@ -51,7 +51,7 @@ You may add more tags to your assets, in addition to the Smart Tags that are add
 
 You can also remove tags from the [!UICONTROL Smart Tags] section that are automatically added by [!DNL Assets Essentials] to all the uploaded assets.
 
-# Metadata forms {#metadata-forms}
+## Metadata forms {#metadata-forms}
 
 Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets.
 
