@@ -51,6 +51,49 @@ You may add more tags to your assets, in addition to the Smart Tags that are add
 
 You can also remove tags from the [!UICONTROL Smart Tags] section that are automatically added by [!DNL Assets Essentials] to all the uploaded assets.
 
+## Metadata forms {#metadata-forms}
+
+Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets.
+
+You can configure metadata forms for different types of assets (different MIME types). Use the same form name as the file's MIME type. Essentials automatically matches uploaded assets to the name of the form. For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contains metadata fields as defined in the form. You can create forms from scratch or re-purpose an existing form.
+
+>[!IMPORTANT] 
+>
+>The new metadata form for a specific file type completely replaces the default metadata form that [!DNL Assets Essentials] provides. If you delete or rename a metadata form, the default metadata fields are again available for new assets.
+
+To create a metadata form, follow these steps:
+
+1. In the left rail, click **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]**.
+
+   ![metadata forms option in left sidebar](assets/metadata-forms-sidebar.png)
+
+1. Click **[!UICONTROL Create]**, in the upper-right area of the user interface.
+1. Provide a name for the form and click **[!UICONTROL Create]**.
+1. Provide a name for the tab in **[!UICONTROL Settings]** in the right rail.
+1. From the **[!UICONTROL Components]** available in the left rail, drag the required components on a tab in the form. Drag the components in the desired sequence.
+
+   ![metadata forms option in left sidebar](assets/metadata-form-new.png)
+
+   *Figure: Metadata form creation interface with options to add components and option to preview the form.*
+
+1. For each component, in the provide a name in the **[!UICONTROL Settings]** in the right rail, provide a mapping with the supported properties.
+1. Optionally, for a component, select **[!UICONTROL Required]** to make the metadata field mandatory and select **[!UICONTROL Read-Only]** to make the field uneditable in the asset [!UICONTROL Details] page.
+1. Optionally, click **[!UICONTROL Preview]** to preview the form that you are creating.
+1. Optionally, add more tabs and the required components in each tab.
+1. Click **[!UICONTROL Save]** when the form is complete.
+
+Once a form is created, it is automatically applied when users upload an asset of the matching MIME type.
+
+To reuse an existing form to create a new form, select a metadata form, click **[!UICONTROL Copy]** from the toolbar, provide a name, and click **[!UICONTROL Confirm]**. You can edit a metadata form to change it. When you change a form, it is used for assets uploaded after the change. It does not change the existing assets.
+
+<!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
+To reuse an existing form to create a new form, do one of these:
+
+* Select a metadata form and click **[!UICONTROL Copy]** from the toolbar, provide a name, and click **[!UICONTROL Confirm]**.
+
+* Click **[!UICONTROL Create]**, select **[!UICONTROL Use existing form structure as template]** option, and select an existing form. 
+-->
+
 <!-- TBD: Queries for PM and engg.
 
 Can we edit the existing metadata in any form?

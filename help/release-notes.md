@@ -22,7 +22,7 @@ To know more about the solution, see the [introduction to [!DNL Assets Essential
 
 The current release of Assets Essentials is 2021.7.0, released on July 29, 2021, with the following updates:
 
-* You can create and manage customized metadata forms to be used for displaying metadata properties to users in the asset detail screen in [!UICONTROL Metadata Forms] option under [!DNL Settings]. 
+* You can create and manage customized metadata forms to be used for displaying metadata properties to users in the asset detail screen in [!UICONTROL Metadata Forms] option under [!DNL Settings]. See [metadata forms](metadata.md#metadata-forms).
 * Various bug fixes and product improvements, including better performance when uploading a nested folder with many subfolders.
 
 ## Known issues {#known-issues}
