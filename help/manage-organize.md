@@ -19,11 +19,11 @@ Use [!DNL Assets Essentials] to accomplish the following asset management tasks.
 * ![details icon](assets/do-not-localize/edit-in-icon.png) Click to preview an asset and view the detailed metadata. When previewing, you can view the versions and edit an image.
 * ![download icon](assets/do-not-localize/download-icon.png) Download the selected asset to your local file system.
 * ![delete icon](assets/do-not-localize/delete-icon.png) Delete the selected asset or folder.
-* <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) --> Checkout an asset.
+* Checkout an asset. <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) -->
 * ![copy icon](assets/do-not-localize/copy-icon.png) Copy the selected file or folder.
 * ![move icon](assets/do-not-localize/move-icon.png) Move the selected asset or folder to a different location in the repository hierarchy.
 * ![rename icon](assets/do-not-localize/rename-icon.png) Rename the selected asset or folder. Use a unique name otherwise renaming fails with a warning. You can try again with a new name.
-* <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) --> Assign tasks to other users to collaborate on an asset.
+* Assign tasks to other users to collaborate on an asset. <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) -->
 
 You can view the same options on assets thumbnails.
 
