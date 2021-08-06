@@ -4,7 +4,7 @@ product: adobe experience manager
 audience: end-user
 user-guide-title: Experience Manager Assets Essentials Guide
 breadcrumb-title: Assets Essentials Guide
-user-guide-description: Learn how to use Adobe Experience Manager Assets Essentials.
+user-guide-description: Assets Essentials is a lightweight asset management solution that works from within other Experience Cloud applications.
 feature-set: Experience Manager Assets,Experience Manager
 feature: Asset Management
 role: User,Leader
