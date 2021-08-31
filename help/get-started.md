@@ -49,19 +49,21 @@ The various digital asset management (DAM) tasks that you can accomplish using [
 
 | User tasks | Functionality and how-to information |
 |-----|------|
-| How do I add an asset? | <ul> <li> [Upload assets](/help/add-delete.md) </li> <li> [Renditions](/help/add-delete.md#renditions) </li> </ul> |
-| How do I update assets or related information? | <ul> <li>Change an existing asset</li> <li>[Create versions](/help/manage-organize.md#create-versions) and [view versions](/help/manage-organize.md#view-versions)</li> <li>[Edit images](/help/edit-images.md)</li> </ul> |
-| How do I discover assets? | <ul> <li>[Browse repository](/help/navigate-view.md#view-assets-and-details) </li> <li> [Preview asset](/help/navigate-view.md#preview-assets) and [download assets](/help/manage-organize.md#download) </li> <li>[Search assets](/help/search.md)</li></ul> |
-| How do I edit assets in the repository? | <ul> <li>[In-browser edits using Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Crop for a social media profile](/help/edit-images.md#crop-straighten-images)</li> <li>[View and manage versions](/help/manage-organize.md#view-versions)</li> <li>Use [Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
-| How do I search for assets in the repository? | <ul> <li>[Search within a specific folder](/help/search.md#refine-search-results)</li> <li>[Saved searches](/help/search.md#saved-search)</li> <li>[Search for recently viewed assets](/help/search.md)</li> <li>[Full-text search](/help/search.md) |
-| How do I add new assets? | <ul> <li>[Upload new assets and folders](/help/add-delete.md#add-assets)</li> <li>[Monitor upload progress and manage uploads](/help/add-delete.md#upload-progress)</li> <li>[Resolve duplicates](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
-| Metadata operations | <ul> <li>[View detailed metadata](/help/metadata.md) </li> <li> [Create new metadata form](/help/metadata.md#metadata-forms) </li> </ul> |
-| Can [!DNL Assets Essentials] integrate with other solutions? | <ul> <li>[Use Asset Selector in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] for [!DNL Creative Cloud]](/help/integration.md)</li> <li>Integration with [!DNL Creative Cloud Team] Libraries</li> </ul> |
+| Browse and view assets | <ul> <li>[Browse the repository](/help/navigate-view.md#view-assets-and-details) </li> <li> [Preview an asset](/help/navigate-view.md#preview-assets) <li> [View renditions of an asset](/help/add-delete.md#renditions) </li> <li>[View versions of an asset](/help/manage-organize.md#view-versions)</li></ul> |
+| Add new assets | <ul> <li>[Upload new assets and folders](/help/add-delete.md#add-assets)</li> <li>[Monitor upload progress and manage uploads](/help/add-delete.md#upload-progress)</li> <li>[Resolve duplicates](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| Update assets or related information | <ul> <li>[Edit images](/help/edit-images.md)</li> <li>[Create versions](/help/manage-organize.md#create-versions) and [view versions](/help/manage-organize.md#view-versions)</li> <li>[Edit images](/help/edit-images.md)</li> </ul> |
+| Edit assets | <ul> <li>[In-browser edits using Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Crop for a social media profile](/help/edit-images.md#crop-straighten-images)</li> <li>[View and manage versions](/help/manage-organize.md#view-versions)</li> <li>[Use [!DNL Adobe Asset Link]](/help/integration.md#integrations)</ul></ul> |
+| Search for assets in the repository | <ul> <li>[Search within a specific folder](/help/search.md#refine-search-results)</li> <li>[Saved searches](/help/search.md#saved-search)</li> <li>[Search for recently viewed assets](/help/search.md)</li> <li>[Full-text search](/help/search.md) |
+| Download assets | <ul> <li> [Preview asset](/help/navigate-view.md#preview-assets) </li> <li> [Download assets](/help/manage-organize.md#download) <li> [Download renditions](/help/add-delete.md#renditions) </li></ul> |
+| Metadata operations | <ul> <li>[View detailed metadata](/help/metadata.md) </li> <li> [Update metadata](/help/metadata.md#update-metadata)</li> <li> [Create new metadata form](/help/metadata.md#metadata-forms) </li> </ul> |
+| Integration with other solutions | <ul> <li>[Use Asset Selector in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] for [!DNL Creative Cloud]](/help/integration.md)</li> <li>[Integration with [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
-<!--TBD: Merge in above table when these use cases are documented/available.
+<!--TBD: Merge the below rows in the table when the use cases are documented/available.
+
 | How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
 | How do I share assets or find shared assets? | <ul> <li>Shared by me</li> <li>Shared with me</li> <li>Share for comments and review</li> <li>Unshare assets</li> </ul> |
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
+
 -->
 
 ## ![feedback icon](assets/do-not-localize/feedback-icon.png) Provide product feedback {#provide-feedback}

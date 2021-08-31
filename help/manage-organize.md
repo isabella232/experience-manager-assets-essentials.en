@@ -41,7 +41,7 @@ You can view the same options on assets thumbnails.
 
 ## Download and distribute assets {#download}
 
-You can select one or more assets or folders or a combination of both, and download the selection to your local file system. You can edit the assets and upload again or distribute the assets outside [!DNL Assets Essentials]. You can also [download the renditions](/help/add-delete.md#renditions) of an asset.
+You can select one or more assets or folders or a combination of both, and download the selection to your local file system. You can edit the assets and upload again or distribute the assets outside [!DNL Assets Essentials]. Also, you can [download the renditions](/help/add-delete.md#renditions) of an asset.
 
 ## Asset versioning {#versions-of-assets}
 
