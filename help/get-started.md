@@ -68,7 +68,7 @@ The various digital asset management (DAM) tasks that you can accomplish using [
 
 ## ![feedback icon](assets/do-not-localize/feedback-icon.png) Provide product feedback {#provide-feedback}
 
-Adobe welcomes feedback about the solution. To provide feedback without even switching your working application, use the [!UICONTROL Feedback] option in the user interface. It also allows attaching files such as screenshots or video recording of an issue.
+Adobe welcomes feedback about the solution. To provide feedback without even switching your working application, use the [!UICONTROL Feedback] option in the user interface. It also lets you attach files such as screenshots or video recording of an issue.
 
   ![feedback option in the interface](assets/feedback-panel.png)
 

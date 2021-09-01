@@ -7,7 +7,7 @@ contentOwner: AG
 
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of [!DNL Assets Essentials] is released on August 30, 2021. It provides integrations with [!DNL Adobe Workfront] that lets [!DNL Workfront] users manage their digital assets in the context of managing their work. See [integrations with other Adobe solutions](/help/integration.md).
+The current release of [!DNL Assets Essentials] is released on August 30, 2021. It provides integrations with [!DNL Adobe Workfront] that lets [!DNL Workfront] users manage their digital assets in the context of managing their work. For more information, see [integrations with other Adobe solutions](/help/integration.md).
 
 To know more about the solution, see the [introduction to [!DNL Assets Essentials]](introduction.md). To start using the features, see [get started](/help/get-started.md).
 
@@ -40,4 +40,4 @@ The first release of [!DNL Assets Essentials], made available on June 21, 2021, 
 * Upload and add assets, including nested folders. Preview the assets and versions.
 * Full-text search, nuanced search filters, and saved searches for rapid asset discovery.
 * Basic asset management operations like update, delete, download, and manage metadata.
-* [!DNL Assets Essentials] is available to [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+* [!DNL Assets Essentials] is available to [!DNL Adobe Journey Optimizer] users to manage the assets when creating messages. For more information, see [integrations with other Adobe solutions](/help/integration.md).
