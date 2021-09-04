@@ -2,8 +2,8 @@
 title: [!DNL Assets Essentials] user interface
 description: Understand user interface of and navigation in [!DNL Assets Essentials].
 role: User
+exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 ---
-
 # Navigate to files and folders and view assets {#view-assets-and-details}
 
 <!-- TBD: Give screenshots of all views with many assets. Zoom out to showcase how the thumbnails/tiles flow on the UI in different views. -->

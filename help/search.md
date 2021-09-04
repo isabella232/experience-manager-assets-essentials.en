@@ -2,8 +2,8 @@
 title: Search and discover assets in [!DNL Assets Essentials]
 description: Search and discover assets in [!DNL Assets Essentials].
 role: User
+exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 ---
-
 # Search assets in [!DNL Assets Essentials] {#search-assets}
 
 [!DNL Assets Essentials] provides effective search, that just works by default. The search is comprehensive as it is full-text search. The powerful search functionality lets you quickly discover the appropriate asset and help you improve your content velocity. [!DNL Assets Essentials] provides full-text search and even searches through the metadata such as smart tags, title, date created, and copyright.

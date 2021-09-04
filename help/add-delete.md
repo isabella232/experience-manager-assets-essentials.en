@@ -2,8 +2,8 @@
 title: Upload assets to the repository
 description: Upload assets to [!DNL Assets Essentials], view upload statuses, and resolve upload issues.
 role: User
+exl-id: a85a4455-4456-48af-aee9-f05300677605
 ---
-
 # Upload assets {#add-assets}
 
 To add new assets to work with, upload a few assets from your local file system. <!-- TBD: Many of the [common file formats are supported](/help/supported-file-formats.md). -->

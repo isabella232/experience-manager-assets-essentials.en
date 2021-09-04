@@ -3,8 +3,8 @@ title: Manage your digital assets
 description: Move, delete, copy, rename, update, and version your assets in [!DNL Assets Essentials].
 role: User,Leader
 contentOwner: AG
+exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 ---
-
 # Manage assets {#manage-assets}
 
 You can do various digital asset management (DAM) tasks easily using the user-friendly interface of [!DNL Assets Essentials]. After you've added the assets, you can search, download, move, copy, rename, delete, update, and edit your assets. 

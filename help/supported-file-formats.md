@@ -3,8 +3,8 @@ title: Supported file formats
 description: Supported file formats for the various use cases of [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
+exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
 ---
-
 # Files formats support in [!DNL Assets Essentials] {#file-format-support}
 
 [!DNL Assets Essentials] supports a wide range of file formats and each functionality has varied support for different file types.

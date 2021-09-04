@@ -2,8 +2,8 @@
 title: Deploy and manage users
 description: Administration use cases such as deployment and user management in [!DNL Assets Essentials].
 role: Admin
+exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 ---
-
 # Deploy [!DNL Assets Essentials] and add users {#administer}
 
 [!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. The customers also have access to [!DNL Experience Manager Cloud Manager] as a deployment tool and to [!DNL Admin Console] to manage user entitlements to [!DNL Assets Essentials] solution.

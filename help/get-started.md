@@ -2,6 +2,7 @@
 title: Get started using [!DNL Assets Essentials]
 description: How to access, login experience of, supported use cases of, and known issues of [!DNL Assets Essentials].
 role: User, Leader
+exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 ---
 # Get started using [!DNL Experience Manager Assets Essentials] {#assets-essentials-get-started}
 

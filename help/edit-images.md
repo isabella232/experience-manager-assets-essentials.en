@@ -2,8 +2,8 @@
 title: Edit images
 description: Edit images using [!DNL Adobe Photoshop Express] powered options and save updated images as versions.
 role: User
+exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 ---
-
 # Edit images in [!DNL Assets Essentials] {#edit-images}
 
 [!DNL Assets Essentials] provides user-friendly editing options that are powered by [!DNL Adobe Photoshop Express]. The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.

@@ -3,8 +3,8 @@ title: Release Notes
 description: Release Notes and known issues of [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
+exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
-
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
 The current release of [!DNL Assets Essentials] is released on August 30, 2021. It provides integrations with [!DNL Adobe Workfront] that lets [!DNL Workfront] users manage their digital assets in the context of managing their work. For more information, see [integrations with other Adobe solutions](/help/integration.md).
