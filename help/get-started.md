@@ -20,7 +20,7 @@ In addition, more reference information that can be helpful is [understanding of
 
 ## Receive access to [!DNL Assets Essentials] {#get-access}
 
-Adobe provisions the solution and adds the designated person from your organization as an administrator. The administrators can provide access to various users from the organization by using [[!DNL Admin Console]](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/welcome.ug.html). For requests related to your access, contact your organization's administrator.
+Adobe provisions the solution and adds the designated person from your organization as an administrator. The administrators can provide access to various users from the organization by using [[!DNL Admin Console]](https://helpx.adobe.com/enterprise/using/admin-console.html). For requests related to your access, contact your organization's administrator.
 
 ## Configure [!DNL Assets Essentials] {#configuration}
 
