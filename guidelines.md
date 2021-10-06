@@ -30,9 +30,9 @@ Exceptions to this rule apply to the release notes where known issues can be lis
 
 Any ideas you may have to improve [!DNL Experience Manager] documentation are welcome as contributions. However comments, issues, and pull requests are intended for *contributions* only. They are not intended to be used to answer your questions about how to use [!DNL Experience Manager], implement your [!DNL Experience Manager] project, or solve technical problems.
 
-Any questions about the usage of [!DNL Experience Manager] or technical errors you may have should be reported through the normal support process via the [[!DNL Experience Cloud] support portal](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support) or discussed in the [Experience Manager community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Any questions about the usage of [!DNL Experience Manager] or technical errors you may have should be reported through the normal support process via the [[!DNL Experience Manager] support portal](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support) or discussed in the [Experience Manager community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
-***[!DNL Experience Manager] documentation contributions are not a replacement for Adobe Customer Care*** and any such contributions seeking answers to support-related questions will be rejected.
+***[!DNL Experience Manager] documentation contributions are not a replacement for Adobe Customer Support*** and any such contributions seeking answers to support-related questions will be rejected.
 
 ### Contributions must clearly reference affected documentation pages.
 
