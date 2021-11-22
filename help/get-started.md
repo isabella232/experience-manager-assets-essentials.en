@@ -22,6 +22,8 @@ In addition, more reference information that can be helpful is [understanding of
 
 Adobe provisions the solution and adds the designated person from your organization as an administrator. The administrators can provide access to various users from the organization by using [[!DNL Admin Console]](https://helpx.adobe.com/enterprise/using/admin-console.html). For requests related to your access, contact your organization's administrator.
 
+When logging in, after providing the credentials, [!DNL Assets Essentials] prompts you to select an account. In this case, select `Company or School Account` to proceed.
+
 ## Configure [!DNL Assets Essentials] {#configuration}
 
 To open preferences, click on the avatar in the upper-right corner of the user interface. You can switch between the light and the dark themes in the solution preferences.
@@ -31,18 +33,6 @@ If you are part of different organizations, you can also change the organization
 To change your [!UICONTROL Experience Cloud preferences], Click [!UICONTROL Preferences].
 
 ![Preference to switch dark and light theme](assets/theme-change.png)
-
-<!-- TBD: What can admins configure? What more can users configure? Any doc that describes Exp Cloud preferences? 
-Metadata forms is out of the scope of 6/17 GA. When the functionality is added, link to it from here. It is about configuring metadata UI. -->
-
-<!-- TBD: This section contains beta-specific video that will be updated post-GA.
-
-## Login experience {#login-experience}
-
-When logging in, after providing the credentials, you can be prompted to select an account. In this case, select `Company or School Account` to proceed.
-
-![Select an account to login](assets/do-not-localize/login-experience.gif)
--->
 
 ## [!DNL Assets Essentials] use cases {#use-cases}
 
