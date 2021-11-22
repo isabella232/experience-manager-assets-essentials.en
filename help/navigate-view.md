@@ -85,11 +85,16 @@ To preview an asset, select it and click [!UICONTROL Details] ![details icon](as
 *K: Preview more closely. Zoom, full screen, and other options.*
 *L: Proceed to previous or next asset in the current folder without going back to the folder.*
 
+You can also preview videos.
+
+![Video preview](/help/assets/preview-video.png)
+
+If you explicitly preview an asset, then [!DNL Assets Essentials] displays it as a recently viewed asset.
+
 <!-- TBD: Describe the options.
 
 Explicitly previewed assets are displayed as recently viewed assets. Give screenshot of this.
 Other use cases after previewing.
-
 -->
 
 >[!MORELIKETHIS]
