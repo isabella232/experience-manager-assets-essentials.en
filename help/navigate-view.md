@@ -20,7 +20,7 @@ When you log into [!DNL Assets Essentials], you see the following interface.
 
 ![[!DNL Assets Essentials] user interface](assets/essentials-interface1.png)
 
-*Figure: First login screen and where to find the salient features.*
+*Figure: First screen after login and location of the salient features.*
 &nbsp;&nbsp;&nbsp; *A: Left sidebar to browse repository and provides access to a few other options.*
 &nbsp;&nbsp;&nbsp; *B: Display or collapse the left sidebar to increase asset-viewing area.*
 &nbsp;&nbsp;&nbsp; *C: Filter search results.*
