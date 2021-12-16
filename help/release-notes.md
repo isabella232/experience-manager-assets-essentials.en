@@ -7,7 +7,11 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of [!DNL Assets Essentials] is released on August 30, 2021. It provides integrations with [!DNL Adobe Workfront] that lets [!DNL Workfront] users manage their digital assets in the context of managing their work. For more information, see [integrations with other Adobe solutions](/help/integration.md).
+The current release of [!DNL Assets Essentials] is released on December 16, 2021. With this release:
+
+* Adobe deploys Assets Essentials automatically after completing the provisioning process. The administrators do not need to perform additional steps to deploy Assets Essentials using [!DNL Cloud Manager] user interface. This automatic deployment will be available for environments provisioned after 6 January 2022.
+* New versions of Creative Cloud plugins working with Assets Essentials are available on Adobe Exchange - [Adobe Asset Link for Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) and [Adobe Asset Link for Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
+* Various bugfixes and product enhancements, including previous known issues (folders now display correctly in the left navigation tree after upload<!-- CQ-4337638 -->, drag and drop upload allows user to select either current folder or any subfolder when dropping for upload<!-- CQ-4327753 -->).
 
 To know more about the solution, see the [introduction to [!DNL Assets Essentials]](introduction.md). To start using the features, see [get started](/help/get-started.md).
 
@@ -15,16 +19,17 @@ To know more about the solution, see the [introduction to [!DNL Assets Essential
 
 The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
 
-* To upload a folder or assets, when you drag the items into a folder with subfolders in the repository, the upload goes into one of the subfolders automatically. The workaround is to click [!DNL Upload assets] option and drag into the dialog. <!-- CQ-4327753 -->
-* After uploading folder, new folders may sometimes display incorrectly in the left rail instead of displaying in the tree view. The workaround is to refresh the browser. <!-- CQ-4323534 -->
-
-<!--
-* Use assets that do not have whitespace in the file names. The replies to comments do not work for such assets.
--->
+* Individual assets cannot be uploaded to the top folder (Assets), only to any subfolder in the system. <!-- CQ-4337638 -->
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
 ## Past releases {#past-release}
+
+### 2021.8.0 release {#august2021}
+
+[!DNL Assets Essentials] 2021.8.0 is released on August 30, 2021, with the following updates:
+
+* Integrations with [!DNL Adobe Workfront] that lets [!DNL Workfront] users manage their digital assets in the context of managing their work. For more information, see [integrations with other Adobe solutions](/help/integration.md).
 
 ### 2021.7.0 release {#july2021}
 
